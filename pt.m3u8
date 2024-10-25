@@ -1529,6 +1529,9 @@ https://bit.ly/csi_inspiration_m3u8
 #EXTINF:-1 tvg-id="65653817c917a5000844bc30" tvg-name="" group-title="📺 Reality's & TV Shows" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png",Criminal Minds 🇺🇸
 https://bit.ly/3Hpns4O?profile=inspirationFreetv.m3u8
 
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-name="" group-title="📺 Reality's & TV Shows" tvg-logo="https://store-images.s-microsoft.com/image/apps.43367.13600635989574023.5c688055-bbb7-45a0-b2a0-58f033019abf.6ebc3fa6-0478-4509-9cb7-8fccfe2b3166?h=210",FilmRise Made in Canada 🇨🇦 (VPN 🇨🇦)
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=Uq_CEvyFe-yvibWxy7FS
+
 #EXTINF:-1 tvg-id="60f5d389985a0c0007357304" group-title="📺 Reality's & TV Shows" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png",BritBox Mysteries 🇬🇧
 https://sck.pm/q5ay?60f5d389985a0c0007357304.m3u8
 
@@ -1556,8 +1559,11 @@ https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" group-title="📺 Reality's & TV Shows" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png",Stories By AMC  🇺🇸
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-name="" group-title="📺 Reality's & TV Shows" tvg-logo="https://store-images.s-microsoft.com/image/apps.43367.13600635989574023.5c688055-bbb7-45a0-b2a0-58f033019abf.6ebc3fa6-0478-4509-9cb7-8fccfe2b3166?h=210",FilmRise Made in Canada 🇨🇦 (VPN 🇨🇦)
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=Uq_CEvyFe-yvibWxy7FS
+#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" group-title="📺 Reality's & TV Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20240709T044426SQUARE.png",U&Real Heroes 🇬🇧
+https://stitcher.pluto.tv/stitch/hls/channel/64c0d6b424ade50008bc8883/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
+
+#EXTINF:-1 tvg-id="CHBC40000040J" tvg-name="" group-title="📺 Reality's & TV Shows" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/WedoBigStories.png",Wedo Big Stories 🇺🇸  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="615b8ec39e878900073f419a" tvg-name="" group-title="📺 Reality's & TV Shows" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AntiquesRoadTrip.webp",Antiques Road Trip 🇬🇧
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b8ec39e878900073f419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
@@ -1844,6 +1850,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u
 #EXTINF:-1 tvg-id="USBB10000047W" tvg-name="" group-title="📺 Paranormal 👽" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png",Unidentified 🇺🇸
 https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-name="" group-title="📺 Paranormal 👽" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG-1646155426722.png",Documentary 🇺🇸
+https://bit.ly/DocumentarioPluto?profile=5adf96e3e738977e2c31cb04.m3u8
+
 #EXTINF:-1 tvg-id="mjh-discovery-fast5" tvg-name="" group-title="📺 Paranormal 👽"  tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png",WB TV Paranormal 🇺🇸
 https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
 
@@ -1881,6 +1890,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-sam
 --- 📺 Archive Files and Crimes  🏛️   🔰
 
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a13ba7a8-630b-41ac-9d6b-6be4eff4f017/JAIL_-_coverArt_-_1920x1080_James_Roebuck.jpg",JAIL 🇺🇸
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
+
 #EXTINF:-1 tvg-id="639b558c73423d00071ce624" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png",More tv Crime 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/639b558c73423d00071ce624/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
@@ -1896,8 +1908,8 @@ https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
 #EXTINF:-1 tvg-id="USBB3200018Q6" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20240520T221352SQUARE.png",FilmRise Unsolved Mysteries 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
 
-#EXTINF:-1 tvg-id="CAAJ27000079E" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20220824T022327SQUARE.png_20220824022328.png",FilmRise True Crime 🇨🇦
-https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51132fd6-37d3-4fe3-a9ea-42a60b59f276/Plex_FilmRise_WomenBehindBars_1920x1080.jpg",FilmRise Women Behind Bars 🇺🇸
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
 
 #EXTINF:-1 tvg-id="CABA8000080J" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG.png",Crime Time 🇨🇦
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CrimeTime-Canada.m3u8
@@ -1914,7 +1926,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-ta
 #EXTINF:-1 tvg-id="654930a8346f420008d3b0b8" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png",Oxygen True Crime Archives 🇺🇸
 https://sck.pm/9hkh?654930a8346f420008d3b0b8.m3u8
 
-#EXTINF:-1 tvg-id="62ff6c862bc0c7001aabd147" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Crime%20%26%20Punishment.png",Crime & Punishment 🇺🇸
+#EXTINF:-1 tvg-id="62ff6c862bc0c7001aabd147" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Crime%20%26%20Punishment.png",Crime And Punishment 🇺🇸
 https://bit.ly/48Rb5dx?62ff6c862bc0c7001aabd147.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65282a6091e77473f1a44ff2" tvg-name="" group-title="📺 Crime & Archive Files 🏛️" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/TVOCJ/large.png",TV One Crime & Justice 🇺🇸
@@ -1950,8 +1962,6 @@ https://bit.ly/fbi_inspiration_m3u8
 
 #EXTINF:-1 tvg-id="UK:.CGTN.Documentary.en" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🇺🇸
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-id="UK:.CGTN.Documentary.en" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary 🇺🇸
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="USBB1900006NY" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png",Vice 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8
@@ -1961,20 +1971,14 @@ https://d1nlhbqjulacw7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="USBB800001O7" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png",PBS Digital Studios 🇺🇸
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_002.m3u8
 
-#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20240709T044426SQUARE.png",U&Real Heroes 🇬🇧
-https://stitcher.pluto.tv/stitch/hls/channel/64c0d6b424ade50008bc8883/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
-
 #EXTINF:-1 tvg-id="62fb9844db5a4a0007ebc2a3" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png",Beyond History 🇺🇸
 https://is.gd/6YJJ6Q?62fb9844db5a4a0007ebc2a3.m3u8
-
-#EXTINF:-1 tvg-id="CHBC40000040J" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/WedoBigStories.png",Wedo Big Stories  🇺🇸  
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6319ee0cf78bb10007ee5e6b" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://images.pluto.tv/channels/6319ee0cf78bb10007ee5e6b/colorLogoPNG.png",World War TV 🇺🇸
 https://is.gd/q0oEG2?6319ee0cf78bb10007ee5e6b.m3u8
 
-#EXTINF:-1 tvg-id="GBBA22000063W" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/wonder.webp",Wonder tv 🇺🇸
-https://wonder-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="INBA4900011UB" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/wonder.webp",Wonder tv 🇺🇸
+https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="USBA300023G8" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20240520T214553SQUARE.png",Inwonder tv 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
@@ -1987,9 +1991,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 tvg-name="" tvg-id="Documentaryplus.us" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9a845dc-b33b-49af-b7dd-1de1b50a61d3/documentaryplus_logo_dark_1_.png",Documentary+ 🇺🇸
 https://is.gd/wNnVEL?608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8
-
-#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG-1646155426722.png",Documentary 🇺🇸
-https://bit.ly/DocumentarioPluto?profile=5adf96e3e738977e2c31cb04.m3u8
 
 #EXTINF:-1 tvg-id="GBBA2200005ZA" tvg-name="" group-title="📺 Documentaries & History 🏛️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HistoryHits.png",History Hits 🇺🇸
 https://bit.ly/3Ocb6Rn?profile=GBBA2200005ZA.m3u8 
@@ -2341,7 +2342,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425
 #EXTINF:-1 tvg-id="USBD4200016QR" tvg-name="" group-title="📺 Tennis 🎾🏓🏸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240520T220130SQUARE.png",Pickleball TV 🇺🇸
 https://dk9k3t9vof80w.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xb3418xn33is1/f4a57903-030c-4127-b76f-6ec52a9b1def/3.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" tvg-name="" group-title="📺 Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/358f03ec-e12a-4e95-b444-baab53ac4cdf/pbtv_5_1920_x_1080_Horizontal_Art_with_Logo_-_Ari_Brock.jpg",PickleballTV 🇺🇸
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" tvg-name="" group-title="📺 Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/358f03ec-e12a-4e95-b444-baab53ac4cdf/pbtv_5_1920_x_1080_Horizontal_Art_with_Logo_-_Ari_Brock.jpg",PickleballTV 🇺🇸 (VPN 🇺🇸)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-name="" group-title="📺 Tennis 🎾🏓🏸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba118cb3-d9ba-43b8-8020-049dd0a4e037/PickleTV_1920x1080_5_Official_PickleTV_Casey_Murawski.jpg",PickleTV 🇺🇸
@@ -2355,11 +2356,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-id="USBB400000145" tvg-name="" group-title="📺 Golf 🏌️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png",NBC Golf 🇺🇸 
 https://d5ns9yvqjl6hw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c9308wgd3960d/c62ada94-15d4-410d-9605-a23805aa4258/4.m3u8
+
 #EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="" group-title="📺 Golf 🏌️" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",PGA Tour 🇺🇸
 https://bit.ly/48WtyFK?profile=inspirationFreeTV.m3u8
-
-#EXTINF:-1 tvg-id="USBB400000145" tvg-name="" group-title="📺 Golf 🏌️" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png",GolfPass 🇺🇸 (VPN 🇺🇸)
-https://bit.ly/42nZAHa?5de94dacb394a300099fa22a.m3u8
 
 #EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-name="" group-title="📺 Golf 🏌️" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png",GolfPass 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65493029ab052400089e9d2f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
