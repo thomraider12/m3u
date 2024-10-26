@@ -1790,7 +1790,7 @@ https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 #EXTINF:-1 tvg-id="USBD1200021JM" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241022T004347CIRCLE.png",SHOUT! TV 🇺🇸
 https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UK:.Lone.Star.en" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://static.wixstatic.com/media/2d47fc_b61ff2842d68432d827385d49b8be182~mv2.png/v1/crop/x_0,y_81,w_720,h_557/fill/w_115,h_89,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LoneStar_light%20transparent%20square%20(1)_pn.png",LoneStar 🇺🇸
+#EXTINF:-1 tvg-id="UK:.Lone.Star.en" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://is.gd/noEcbn",LoneStar 🇺🇸
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png",Universal Monsters 🇺🇸
