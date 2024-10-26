@@ -37,14 +37,14 @@
 
 ---
 
-# 🔔 Indice da lista inspiration Free tv
+## 🔔 Indice da lista inspiration Free tv
 * 👇 Para perceber como está organizada a lista Freetv em termos de <u> Estrutura</u> , clique em <b>"Indice"</b> 👇
 
 [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
 ---
 
-## 🥇 OTT Navigator IPTV 
+# 🥇 OTT Navigator IPTV 
 
 ![OTT Navigator screenshot](/Logos/ott.png "OTT Navigator screenshot")
 
@@ -55,7 +55,7 @@
 
 ---
 
-# ✅ Lista Inspiration Free TV (Basta copiar e colar)
+## ✅ Lista Inspiration Free TV (Basta copiar e colar)
 ```bash
 https://bit.ly/41B7IFk
 ```
