@@ -33,14 +33,14 @@
 
 # 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-## [📺 📋 Confira a Lista Completa Canais](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
+## [📺 📋 Confira a Lista Completa de Canais](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
 
 ---
 
 # 🔔 Indice da lista inspiration Free tv
-* 👇 Para perceber como está organizada a lista m3u em termos de <u> Estrutura</u> , clique em <b>"INDICE"</b> 👇
+* 👇 Para perceber como está organizada a lista Freetv em termos de <u> Estrutura</u> , clique em <b>"Indice"</b> 👇
 
-[📝 INDICE](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
+[📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
 ---
 
