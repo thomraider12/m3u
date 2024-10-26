@@ -33,7 +33,7 @@
 
 # 🌍🌐 List of Main TV channels (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
 
-## [📺 📋 Confira a Lista Completa Canais](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20FREETV)
+## [📺 📋 Confira a Lista Completa Canais](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#%EF%B8%8F-categorias-%EF%B8%8F)
 
 ---
 
