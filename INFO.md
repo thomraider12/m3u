@@ -2,7 +2,7 @@
 # 📺 💻 📱 ɪɴsᴘɪʀᴀᴛɪᴏɴ ʟɪvᴇ ᴛv 📺 💻 📱 
 
 
-# 📝 INDICE | LEGENDAS 📝 
+# 📝 Indice | Legendas 📝 
 
 
 📌 Se verificar que um determinado canal não abre utilize uma VPN. Existem canais que em determinados Países, como Portugal e não só... <b>Bloqueiam geograficamente, (Geoblocked)</b> um determinado canal. Se usarem uma <b>VPN</b> de outro Pais diferente, existe fortes possibilidades de conseguirem abrir o canal em questão.
@@ -23,41 +23,51 @@
 
 ---
 
-# 🗃️ CATEGORIAS 🗃️ 
+# 🗃️ Categorias 🗃️ 
 
 📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de <b>800 canais</b> de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
 
-## ✔️ CATEGORIAS PRINCIPAIS DA LISTA (LIVETV)
+## ✔️ Categorias Principais da Lista (LIVETV)
 
 
-✨ Portugal 🇵🇹 [Pacote Completo] (LIVETV)
+✨ Portugal 🇵🇹
 
-✨ Cinema 🇵🇹 [Pacote Completo] (LIVETV)
+✨ Cinema 🇵🇹
 
-✨ Infantil 🇵🇹 [Pacote Completo] (LIVETV)
+✨ Infantil 🇵🇹
 
-✨ Documentários 🇵🇹 [Pacote Completo] (LIVETV)
+✨ Documentários 🇵🇹
 
-✨ Caça & Pesca 🇵🇹 [Pacote Completo + Extras] (LIVETV)
+✨ Caça & Pesca 🇵🇹
 
-✨ Desporto 🇵🇹 [Pacote Completo] (LIVETV)
+✨ Desporto 🇵🇹
 
-✨ Iᴛᴀʟy 🇮🇹 (LIVETV)
+✨ Canais Brasileiros 🇧🇷
 
-✨ Pʀᴇᴍɪuᴍ Sᴘoʀᴛs 🇧🇷 🇬🇧 🇺🇸 🇪🇸 🇫🇷 (LIVETV)
+✨ Canais Espanhóis 🇪🇸
 
-✨ F1 & MOTOGP 🇬🇧 🇪🇸 🇮🇹 (LIVETV)
+✨ Canais Franceses 🇫🇷
 
-✨ Nʙᴀ 🇵🇹 🇺🇸 (LIVETV)
+✨ Canais Italianos 🇮🇹
 
-✨ MLB 🇺🇸 (LIVETV)
+✨ Canais Ingleses 🇬🇧
 
-✨ NFL 🇺🇸 (LIVETV)
+✨ Canais Norte-americanos 🇺🇸
 
-✨ NHL 🇺🇸 (LIVETV)
+✨ Canais Desportivos de vários Países [🇧🇷 🇬🇧 🇺🇸 🇪🇸 🇫🇷]
 
-✨ +18 [Pacote Completo + Extras] (LIVETV)
+✨ F1 & MOTOGP [🇬🇧 🇪🇸 🇮🇹]
+
+✨ Nʙᴀ [🇵🇹 🇺🇸]
+
+✨ MLB 🇺🇸
+
+✨ NFL 🇺🇸
+
+✨ NHL 🇺🇸
+
+✨ +18
 
 
 ## ✔️ CATEGORIAS DA LISTA  ғʀᴇᴇ[я]ᴛv 
