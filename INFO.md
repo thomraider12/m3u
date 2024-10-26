@@ -28,7 +28,7 @@
 📢 Estas são de momento as categorias e grupos existentes. Uma forma de distribuir e organizar os canais. Neste momento são mais de <b>800 canais</b> de variadíssimas temáticas... Quantidade e qualidade e uma grande diversidade para chegar a um maior numero de pessoas, para satisfazer os gostos da grande maioria.
 
 
-## ✔️ Categorias Principais da Lista [Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20LIVETV)
+## ✔️ Categorias e Conteudos da Lista [Livetv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20LIVETV)
 
 
 ✨ Portugal 🇵🇹
@@ -70,7 +70,7 @@
 ✨ +18
 
 
-## ✔️ Categorias Da Lista  ғʀᴇᴇᴛv [ғʀᴇᴇᴛv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20FREETV) 
+## ✔️ Categorias e Conteudos da Lista [ғʀᴇᴇᴛv](https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20FREETV) 
 
 
 ✨ Poʀᴛᴜɢᴀʟ (Canais de sinal Aberto)
