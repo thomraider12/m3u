@@ -113,13 +113,13 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 --- 📺  TVI  🔰
 
 #EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNCA0OjQzOjU3IFBNJmhhc2hfdmFsdWU9aCs2WmFvT045WEhNdXVjYmxuTzFiQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ4ZjAyOGY1LWNjYzAtNDMzNS1iMmNhLTBjNjEwY2Y3MjBjNQ==/
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNCA0OjQzOjU2IFBNJmhhc2hfdmFsdWU9VlNsbkJvdnVVS0JEV3NOeHJKU3dTUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzMzIwNWNjLTQyMTgtNGQ3OC1iNDMzLWFkNzVjZjk1MTM4Nw==/
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 🇵🇹 
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNCA0OjQzOjU3IFBNJmhhc2hfdmFsdWU9Z0xqOHBVaTl5YlA1VkJralJ6ZFRWQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgzYmRkNTAxLWFjN2MtNGQ0NS04ZjZlLWUzMDM5MWZlNWYwNA==/
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -131,6 +131,9 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 
 #EXTINF:-1 tvg-name="" tvg-id="TVI.Reality.HD.pt" group-title="📺 Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp",TVI Reality 🇵🇹
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9b/Fazenda2023.jpg/revision/latest/scale-to-width-down/1200?cb=20231004235951&path-prefix=pt-br",A Fazenda 🇧🇷
+http://hzcdn.vood.top/hls/397630_.m3u8
 
 #EXTINF:-1 tvg-id="655f30c19d5ac4000816e9b3"  tvg-name="" group-title="📺 Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png",Big Brother 🇨🇦
 https://is.gd/cUIhZT?655f30c19d5ac4000816e9b3.m3u8
@@ -681,6 +684,8 @@ http://xciptv.8888play.one:80/live/228463308/r576049x/2535.ts
 http://xciptv.8888play.one:80/live/228463308/r576049x/390951.ts
 #EXTINF:-1 tvg-id="GLOBOSP" group-title="📺 Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/globo.webp",Globo ʀᴊ 🇧🇷 ⚽️
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
+#EXTINF:-1 tvg-id="GLOBOSP" group-title="📺 Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/globo.webp",Globo ʙᴀ 🇧🇷 ⚽️
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="RECORDSP" group-title="📺 Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/recordtv.webp",Record tv sᴘ 🇧🇷
 http://xciptv.8888play.one:80/live/228463308/r576049x/244073.ts
@@ -1748,6 +1753,9 @@ https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" tvg-name="" group-title="📺 Movies 🎬" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",Hallmark Movies & More 🇺🇸
 https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb" tvg-name="" group-title="📺 Movies 🎬" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f847490-8a69-42db-8e89-3e0cc53f4168/HORIZONtalMI_O_-_Simona_Campobasso.jpg", Movieitaly Channel 🇺🇸🇮🇹
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=sVR9P5G-vhJ6P64uQoaY
+
 #EXTINF:-1 tvg-id="USBD700015LK" tvg-name="" group-title="📺 Movies 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20240702T044839SQUARE.png",Midnight Pulp 🇺🇸🇰🇷
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
 
@@ -1763,9 +1771,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bab7ef
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-624604480e3d6a85f19e37f1" tvg-name="" group-title="📺 Movies 🎬" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b3af7c7-f2ec-420e-96b5-f2a7eb3499b9/SamuelGoldwynInternational_artwork_horizontal_TT.jpeg",Samuel Goldwyn International (VPN 🇺🇸)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-624604480e3d6a85f19e37f1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wgHyoK-YJ9buFXNJnKHT
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb" tvg-name="" group-title="📺 Movies 🎬" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f847490-8a69-42db-8e89-3e0cc53f4168/HORIZONtalMI_O_-_Simona_Campobasso.jpg", Movieitaly Channel (VPN 🇺🇸🇮🇹)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=sVR9P5G-vhJ6P64uQoaY
-
 #EXTINF:-1 tvg-id="FreeTV.Acción.distro" group-title="📺 Movies 🎬" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b55e7498-db05-435b-b2df-2eb737aeeeb8/FreeTVAction_Circle_1500x1000_-_Ralph_Campillo.png",Freetv Acción 🇨🇱 (VPN 🇺🇸)
 https://amg01024-olympusat-amg01024c2-lg-cl-1120.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-topcine-lgcl/playlist.m3u8
 
@@ -1776,26 +1781,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-freetvcl-lgcl/playl
 --- Western & Classics
 
 
+#EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240611T050314SQUARE.png",The Rotten Tomatoes (VPN 🇺🇸)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatous-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.lmt=%7BLMT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-id="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png",Séries Classic 🇧🇷
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w62678542.m3u8
 
-#EXTINF:-1 tvg-id="NOST.-.The.Nostalgia.Network.distro" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/800px-NOST-1080x1080.jpg",Nost Network 🇺🇸
+#EXTINF:-1 tvg-id="NOST.-.The.Nostalgia.Network.distro" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/800px-NOST-1080x1080.jpg",Nost Network (VPN 🇺🇸)
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://image.roku.com/developer_channels/prod/06d1ad5bd3cce75850b0afb7bd1e6a53a6b78aa4638a449038e97c9e64909292.png",PubDHub Channel 🇺🇸
 https://pdhstream.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240611T050314SQUARE.png",The Rotten Tomatoes (VPN 🇺🇸)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatous-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.lmt=%7BLMT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SonyMovies.webp",Sony Movies 🇺🇸
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="62ba60f059624e000781c436" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",00S REPLAY 🇬🇧
 https://is.gd/vlpdjt?62ba60f059624e000781c436.m3u8
-
-#EXTINF:-1 tvg-id="USAJ30000148W" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png",Cinevault 80s 🇺🇸
-https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 
 #EXTINF:-1 tvg-id="USBD1200021JM" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241022T004347CIRCLE.png",SHOUT! TV 🇺🇸
 https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
@@ -1805,6 +1807,9 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png",Universal Monsters 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png",Cinevault 80s 🇺🇸
+https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 
 #EXTINF:-1 tvg-id="USBB3200015M8" tvg-name="" group-title="📺 Western & Classics tv 🎬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20240730T222520SQUARE.png",Cinevault Classics 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
