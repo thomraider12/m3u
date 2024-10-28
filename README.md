@@ -46,7 +46,7 @@
 
 # 🥇 OTT Navigator IPTV 
 
-![OTT Navigator screenshot](/LogosTv/ott.webp "OTT Navigator screenshot")
+![OTT Navigator screenshot](/LogosTv/OTTNavigator.png "OTT Navigator screenshot")
 
 [👉 🖧 Download OTT v1.7.1.6](https://www.mediafire.com/file/km4cbh41ulwubon/OTT_Navigator_v1.7.1.6_Premium.apk/file)
 
