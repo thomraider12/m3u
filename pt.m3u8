@@ -171,7 +171,7 @@ https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cinemonde" group-title="Portugal 🇵🇹" tvg-logo="https://i.imgur.com/dpat1CH.png",CineMonde 🇵🇹🇺🇸 (leg 🇵🇹🇧🇷)
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://www.soultv.com.br/assets/imgs/logo.svg",SoulCine Clube 🇵🇹🇺🇸 (leg 🇵🇹🇧🇷)
+#EXTINF:-1 tvg-id="" tvg-name="SoulCine Clube" group-title="Portugal 🇵🇹" tvg-logo="https://www.soultv.com.br/assets/imgs/logo.svg",SoulCine Clube 🇵🇹🇺🇸 (leg 🇵🇹🇧🇷)
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cindie Lite" group-title="Portugal 🇵🇹" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png",Cindie Lite 🇵🇹🇧🇷 (leg 🇵🇹🇧🇷)
@@ -179,8 +179,6 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-id="USBC3900018K6" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/myTimeMovie.webp",My Time Movie Network 🇵🇹🇧🇷 (leg 🇵🇹🇧🇷)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/myTimeMovie.webp",My Time Movie Network 🇵🇹🇧🇷 (leg 🇵🇹🇧🇷)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6474aadc8e3c0a0008b98493" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png",Curiosidade 🇵🇹🇧🇷 (leg 🇵🇹🇧🇷)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
