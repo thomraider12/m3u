@@ -661,7 +661,7 @@ https://cdn-2.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 http://xciptv.8888play.one:80/live/228463308/r576049x/2535.ts
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",TLC 🇧🇷
-http://xciptv.8888play.one:80/live/228463308/r576049x/728.m3u8
+http://xciptv.8888play.one:80/live/228463308/r576049x/728.ts
 
 #EXTINF:-1 tvg-id="AE" tvg-name="" group-title="Brazil 🇧🇷" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 🇧🇷
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
