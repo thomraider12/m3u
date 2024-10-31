@@ -1857,6 +1857,9 @@ https://bit.ly/3T2BL51?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",AMC Thrillers 🇺🇸
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
+#EXTINF:-1 tvg-id="66c35c0c92b1af0008c8e83a" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",Horror Club 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c35c0c92b1af0008c8e83a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
 #EXTINF:-1 tvg-id="ES:.Cine.Friki.es" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png",Cine Friki 🇪🇸 (VPN 🇺🇸)
 https://amg00711-zylo-amg00711c1-xiaomi-in-1317.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-xiaomiin/playlist.m3u8
 
@@ -2039,7 +2042,7 @@ https://d1nlhbqjulacw7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="USBB800001O7" group-title="Documentaries & History 🏛️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png",PBS Digital Studios 🇺🇸
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_pbsdigitalstudios_002.m3u8
 
-#EXTINF:-1 tvg-id="ITBD1100001B7" tvg-name="" group-title="Documentaries & History 🏛️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20240521T042242SQUARE.png",House of Docs 🇮🇹
+#EXTINF:-1 tvg-id="ITBD1100001B7" tvg-name="" group-title="Documentaries & History 🏛️" tvg-logo="https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG.png",House of Docs 🇮🇹
 https://stitcher.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927a
 
 #EXTINF:-1 tvg-id="62fb9844db5a4a0007ebc2a3" tvg-name="" group-title="Documentaries & History 🏛️" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png",Beyond History 🇺🇸
