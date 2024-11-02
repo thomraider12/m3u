@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/PTepg,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz,https://bit.ly/4hpsf7o?epgBR&HISP" refresh="3600"
+#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz" refresh="3600"
 
 
 
@@ -1976,7 +1976,7 @@ https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UK:.Lone.Star.en" group-title="Western & Classics tv 📽️" tvg-logo="https://is.gd/noEcbn",LoneStar 🇺🇸
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mjh-ahm-FAST" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png",Action Hollywood Movies 🇺🇸
+#EXTINF:-1 tvg-id="plex.tv.Action.Hollywood.Movies.plex" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png",Action Hollywood Movies 🇺🇸
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png",TCM 🇺🇸
@@ -2496,7 +2496,7 @@ http://190.185.121.102:58092/play/a00p
 #EXTINF:-1 tvg-name="" tvg-id="Canal.Tigo.Sports.(El.Salvador).sv" group-title="Sports ⚽️" tvg-logo="",Tigo Sports 🇬🇹
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TigoSports.gt" group-title="Sports ⚽️" tvg-logo="",Tigo Sports 🇭🇳
+#EXTINF:-1 tvg-name="" tvg-id="Canal.Tigo.Sports.(El.Salvador).sv" group-title="Sports ⚽️" tvg-logo="",Tigo Sports 🇭🇳
 http://190.185.121.102:58092/play/a00s
 
 #EXTINF:-1 tvg-id="USAJ2200023Z0" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20240520T220026SQUARE.png",Fubo Sports Network (VPN 🇺🇸)
@@ -2659,7 +2659,6 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/DiscTurbo.m3u8
 
 #EXTINF:-1 tvg-id="6400f731d200410008f9b339" group-title="MotorSports 🏎️🏍" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png",MotorTrend Fast TV 🇺🇸
 https://bit.ly/3uGnEdl?profile=inspirationFreetv.m3u8
-
 
 #EXTINF:-1 tvg-id="mjh-discovery-fast1" group-title="MotorSports 🏎️🏍" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png",Warner Bros TV Motorheads 🇺🇸
 https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
