@@ -1996,7 +1996,7 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 
 
 #EXTINF:-1 tvg-id="plex.tv.Trailers.From.Hell.plex" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tfh.webp",Trailers From Hell 🇺🇸
-https://is.gd/Zl6IX6?Trailers_from_Hell.m3u8
+https://189067eb43d2471db5d0829668d625eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrailersFromHell/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Films Terror 😱" tvg-logo="https://instagram.flis5-3.fna.fbcdn.net/v/t51.2885-19/74940073_531562927394462_6347783740172795904_n.jpg?_nc_ht=instagram.flis5-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=o3pGH4XEWrAQ7kNvgEevBQ9&_nc_gid=1aaedb1b9b344c8cb19f2e3b1df0dcb3&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AYBvIQZOUNj1X_eAC4ciDFkLRQkd2mc6-nlpS_YWYj4xuA&oe=672A6A1B&_nc_sid=1e20d2",Horror Channel 🇺🇸🇮🇹
 http://ondmande-pulse-pannell.ddns.net:80/live/tematico-bambiniserverflusso/vS8SYxwCcn/9959.m3u8
@@ -2645,7 +2645,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6675b8ccca74680008563
 #EXTINF:-1 tvg-id="65a6818c7bdc8d0008457b21" group-title="MotorSports 🏎️🏍" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png",MAVTV Brasil 🇧🇷
 https://is.gd/3Zb8KN?65a6818c7bdc8d0008457b21.m3u8
 
-#EXTINF:-1 tvg-id="UK:.MAVTV.Motorsports.Network.en" group-title="MotorSports 🏎️🏍" tvg-logo="https://lonewolftvpr.com/logos/mav.png",MAVTV Motorsports Network 🇺🇸
+#EXTINF:-1 tvg-id="UK:.MAVTV.Motorsports.Network.en" group-title="MotorSports 🏎️🏍" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700014DU_20240417T022455SQUARE.png",MAVTV Motorsports Network 🇺🇸
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" group-title="MotorSports 🏎️🏍" tvg-logo="http://elgarage.com/wp-content/uploads/2021/04/favicon-150x150.png",Garage TV 🇦🇷
