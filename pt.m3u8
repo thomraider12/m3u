@@ -1958,7 +1958,7 @@ https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e9d0ad8fe4
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20241022T004357SQUARE.png",Alfred Hitchcock Presents 🇺🇸
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
 
-#EXTINF:-1 tvg-id="plex.tv.Samuel.Goldwyn.Classics.plex" tvg-name="" group-title="Movies 🎬" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f7411c62-627f-4be2-ac35-c792c53ddf12/SamuelGoldwynClassics_artwork_horizontal_TT.jpeg",Samuel Goldwyn Classics
+#EXTINF:-1 tvg-id="plex.tv.Samuel.Goldwyn.Classics.plex" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f7411c62-627f-4be2-ac35-c792c53ddf12/SamuelGoldwynClassics_artwork_horizontal_TT.jpeg",Samuel Goldwyn Classics
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://image.roku.com/developer_channels/prod/06d1ad5bd3cce75850b0afb7bd1e6a53a6b78aa4638a449038e97c9e64909292.png",PubDHub Channel 🇺🇸
@@ -2037,7 +2037,7 @@ https://bit.ly/3T2BL51?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",AMC Thrillers 🇺🇸
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
-#EXTINF:-1 tvg-id="66c35c0c92b1af0008c8e83a" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",Horror Club 🇺🇸
+#EXTINF:-1 tvg-id="66c35c0c92b1af0008c8e83a" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",Horror Club 🇮🇹
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c35c0c92b1af0008c8e83a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="ES:.Cine.Friki.es" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png",Cine Friki 🇪🇸 (VPN 🇺🇸)
