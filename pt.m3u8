@@ -116,17 +116,17 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI0IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPWprYmNpd1ZVZ0w2eE9KcWtmZDNxWHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02YjhiYzQ3OS1lYjI2LTQ5NzItYTA2OC0xNTk0OGI1OTBjMTU=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI0IDQ6NDQ6NyBQTSZoYXNoX3ZhbHVlPUpwSUMyaitOMGRuVlQzaWhBRkt6YVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ODY5MDJiZS1kYzIwLTQ2NmQtOGE2Mi0wZWI2ZWJjNjNkNjc=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI0IDQ6NDQ6NyBQTSZoYXNoX3ZhbHVlPVMwdUE2VmJuVlhyTWpUMzFTdDFZTWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kYTZiZGU3My1jNTRjLTQzMWQtYWIyYi1hOTA4ZjU3N2IxZTA=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -353,6 +353,9 @@ https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 http://mstrtv.com:25461//live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/200076.ts
 #EXTINF:-1 tvg-id="GolTV.(Latin.America).(GOLTV).cl" group-title="Liga Bwin 🇵🇹 ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp",Goltv 🇺🇸🇺🇾
 http://38.41.8.1:8000/play/a02d
+#EXTINF:-1 tvg-id="GOLTV.us" group-title="Liga Bwin 🇵🇹 ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp",Goltv 🇺🇸
+http://tkosportz.live:25461/live/swilder2023/6063815781/99361.ts
+
 
 #EXTINF:-1 tvg-id="GolTV.(Latin.America).(GOLTV).cl" group-title="Liga Bwin 🇵🇹 ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp",Goltv 🇺🇸🇺🇾
 http://201.230.121.95:8000/play/a069/index.m3u8
@@ -1976,7 +1979,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943
 #EXTINF:-1 tvg-id="USBD1200021JM" group-title="Western & Classics tv 📽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241022T004347CIRCLE.png",SHOUT! TV 🇺🇸
 https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
 
-#EXTINF:-1 tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png",Universal Monsters 🇺🇸
+#EXTINF:-1 tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20240910T003815SQUARE.png",Universal Monsters 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="USAJ30000148W" tvg-name="" group-title="Western & Classics tv 📽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png",Cinevault 80s 🇺🇸
@@ -2386,6 +2389,8 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp",bein Sport 1 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp",bein Sport 1 
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SkySportsLaLiga.webp",Sky Sports La liga 🇪🇸
 http://190.185.121.102:58092/play/a00t
