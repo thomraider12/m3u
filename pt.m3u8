@@ -2581,7 +2581,7 @@ http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-id="5e9f2c05172a0f0007db4786" group-title="Sports ⚽️" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png",CBS Sports HQ 🇺🇸 
-https://is.gd/Wz7VKo?5e9f2c05172a0f0007db4786.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-name="" tvg-id="63a0e33a45264d000850ed7e" group-title="Sports ⚽️" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png",CBS Golazo Network 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
@@ -2666,13 +2666,13 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubosports-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png",NBC Sports 🇺🇸
-https://is.gd/OXgLu1?6549306c83595c000815a696.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://lonewolftvpr.com/logos/mlb.png",MLB 🇺🇸
 https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸
-https://lg-nflchannel-1-us.lg.wurl.tv/playlist.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="USBD1200010I8" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20240520T220120SQUARE.png",Origin Sports 🇺🇸
 https://d3p5ht7q3twp32.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8z9wshyryruk3/4c3ac6bb-c329-44f2-a3c6-97bc46c8a82d/3.m3u8
