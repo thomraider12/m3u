@@ -299,7 +299,7 @@ https://rakuten-africaNews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC39000171G" group-title="News & Opinion ⛈️📰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240909T184501SQUARE.png",ABC News Live 🇺🇸
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 
-#EXTINF:-1 tvg-id="English.-.ABC.Australia.hk" group-title="News & Opinion ⛈️📰" tvg-logo="https://lonewolftvpr.com/logos/abcnews.png",ABC News Australia 🇦🇺
+#EXTINF:-1 tvg-id="English.-.ABC.Australia.hk" group-title="News & Opinion ⛈️📰" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/australia/abc-au.png",ABC News Australia 🇦🇺
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Press Tv" group-title="News & Opinion ⛈️📰" tvg-logo="https://www.presstv.ir/custom/images/site/LOGO.gif",Press Tv 🇺🇸
@@ -751,7 +751,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 tvg-name="ID" group-title="Brazil 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp",ID 🇧🇷
 http://xciptv.8888play.one:80/live/228463308/r576049x/21323.ts
 
-#EXTINF:-1 tvg-id="HGTV" group-title="Brazil 🇧🇷" tvg-logo="https://lonewolftvpr.com/logos/hgtv.png",HGTV 🇧🇷
+#EXTINF:-1 tvg-id="HGTV" group-title="Brazil 🇧🇷" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV 🇧🇷
 http://xciptv.8888play.one:80/live/228463308/r576049x/21294.ts
 
 #EXTINF:-1 tvg-id="HISTORY" group-title="Brazil 🇧🇷" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png",History 🇧🇷
@@ -1319,7 +1319,7 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.id" group-title="USA 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DiscoveryIndia.webp",Discovery HD 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Disc.m3u8
 
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="USA 🇺🇸" tvg-logo="https://lonewolftvpr.com/logos/hgtv.png",HGTV 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" group-title="USA 🇺🇸" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/AGTV.m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.in" group-title="USA 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ID.webp",IDiscovery 🇮🇳🇺🇸
@@ -1601,7 +1601,7 @@ https://playworksdigital-brb-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nautical.Channel.pt" group-title="Travel & Food ✈️🍽️" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-UCLjlC3fh-KPfXMiAwI4DhchBLQIeJXS4_Uo64aCq2Q=s900-c-k-c0x00ffffff-no-rj",Nautical Channel 🇺🇸
 https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index_4.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" group-title="Travel & Food ✈️🍽️" tvg-logo="https://lonewolftvpr.com/logos/outdoor.png",Outdoor Channel 🇺🇸
+#EXTINF:-1 tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" group-title="Travel & Food ✈️🍽️" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png",Outdoor Channel 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBC400005TF" group-title="Travel & Food ✈️🍽️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400005TF_20231011T082527SQUARE.png_20231011082528.png",Montagna! 🇮🇹
@@ -2130,6 +2130,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64a04b8a261d
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af69a56a-b26a-42d5-8978-176bbace29a8/SHUD_FastChanel_Plex_HorizontalArt_3840x2160.jpg",Scares by Shudder (VPN 🇺🇸)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Qgy_9qeXsNx8Q9ANDZ9n
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_horror_1080x1080_02092024.jpg",Freetv Terror (VPN 🇺🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-enghorrorfy-freetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FreetvTerror.jpg",Freetv Terror 🇨🇱 (VPN 🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfycl-lgcl/playlist.m3u8
 
@@ -2145,8 +2147,11 @@ https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="CHBB46000021V" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20220323T080533SQUARE.png_20220323080535.png",ScreamIN 🇫🇷
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-screamin-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Screambox.TV.plex" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://www.screambox.com/images/screambox/screambox_logo_image.png",Scream Box tv 🇺🇸
+#EXTINF:-1 tvg-id="plex.tv.Screambox.TV.plex" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/screambox_500x500_011924.jpg",Scream Box tv 🇺🇸
 https://bloodydisgustingtv-localnow-cinedigm-com.akamaized.net/index.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Watch.it.SCREAM.plex" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/watchitscream_500x500_011924.jpg",Watch it Scream 🇺🇸
+https://stream-us-east-1.getpublica.com/cl/241110csofisl9j1pu3mak2j2g/1280x720_3014976_1_f.m3u8?i=513_3971
 
 #EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="" group-title="Films Terror 😱" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20240214T034959SQUARE.png_20240214034959.png",Bizzarro Movies 🇮🇹🇺🇸
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/3000.m3u8
@@ -2362,7 +2367,7 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="65c243143ef47d00084c90a9" tvg-name="" group-title="Animals & Nature 🐘"  tvg-logo="https://images.pluto.tv/channels/65c243143ef47d00084c90a9/colorLogoPNG.png",Love The Planet 🇮🇹
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="Animal Planet HD" group-title="Animals & Nature 🐘"  tvg-logo="https://lonewolftvpr.com/logos/animalplanet.png",Animal Planet HD 🇮🇳🇺🇸
+#EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="Animal Planet HD" group-title="Animals & Nature 🐘"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet HD 🇮🇳🇺🇸
 https://github.com/inspirationlinks/m3u/raw/live/Streams/AniPlanet.m3u8
 
 #EXTINF:-1 tvg-id="650b69cfd1f20c0008586bac" tvg-name="" group-title="Animals & Nature 🐘"  tvg-logo="https://images.pluto.tv/channels/650b69cfd1f20c0008586bac/colorLogoPNG.png",Earthday 365 🇺🇸
@@ -2668,7 +2673,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubosports-tablo/pl
 #EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png",NBC Sports 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://lonewolftvpr.com/logos/mlb.png",MLB 🇺🇸
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB 🇺🇸
 https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png",NFL 🇺🇸
