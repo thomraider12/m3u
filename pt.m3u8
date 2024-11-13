@@ -3307,6 +3307,8 @@ https://stream-icy.bauermedia.pt/smooth.mp3
 http://centova.radios.pt:8499/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="📻 Radios 🇵🇹" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",Rádio Observador
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="📻 Radios 🇵🇹" tvg-logo="https://www.cmjornal.pt/i/logos/logo_cmr_header.png",CMR
+https://emdireto.cmradio.pt/audio2/output-stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="📻 Radios 🇵🇹" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",Antena 1
 http://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" radio="true" group-title="📻 Radios 🇵🇹" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png",Antena 1
