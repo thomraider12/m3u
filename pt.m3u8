@@ -340,6 +340,8 @@ https://cdn-3.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
 https://cdn-3.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 4 🇧🇷 
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/38801.m3u8
+#EXTINF:-1 tvg-id="ESPN4" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 4 🇧🇷 
 https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 5 🇧🇷 🏀🏍 
@@ -352,8 +354,6 @@ https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/mono.m3u8
 
 --- Goltv
 
-#EXTINF:-1 tvg-id="GOLTV.us" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp",Goltv 🇺🇸
-http://mstrtv.com:25461//live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/200076.ts
 #EXTINF:-1 tvg-id="GolTV.(Latin.America).(GOLTV).cl" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp",Goltv 🇺🇸🇺🇾
 http://38.41.8.1:8000/play/a02d
 #EXTINF:-1 tvg-id="GOLTV.us" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp",Goltv 🇺🇸
@@ -399,13 +399,12 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6806" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6326899c-25c3-435b-b688-e98f67ab0a08.jpeg",Rakuten Família 🇵🇹
 https://bit.ly/3MFhgrA?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="" group-title="Infantil 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DisneyChannel.webp",Disney Channel 🇧🇷
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DisneyChannel.webp",Disney Channel 🇧🇷
 http://15.235.50.115:14563/DisneyChannel
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="" group-title="Infantil 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png",Discovery Kids 🇧🇷
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png",Discovery Kids 🇧🇷
 http://15.235.50.115:14561/DiscoveryKids
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TomandJerry.webp",Tom and Jerry 🇧🇷
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TomandJerry.webp",Tom and Jerry 🇧🇷
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Wacky Races" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://www.justwatch.com/images/poster/261395892/s718/corrida-maluca.jpg",Wacky Races (Corrida Maluca) 🇧🇷
@@ -1368,7 +1367,7 @@ http://69.64.57.208:8080/france5/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp",M6 🇫🇷 
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202201
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp",M6 🇫🇷 
-http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/187952
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/187952.ts
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://www.tf1info.fr/images/tf1info-logo-144x144.png",LCI 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/lci.m3u8
@@ -1377,6 +1376,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tfx.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 🇫🇷
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/202492.ts
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TFX.webp",TFX 🇫🇷 
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202492
 
@@ -1387,9 +1388,10 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TMC.webp",TMC 🇫🇷 
 http://185.59.221.131:8081/live/tmc/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Paris.Première.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 🇫🇷
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8
+#EXTINF:-1 tvg-id="Paris.Première.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 🇫🇷
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/202638.ts
 #EXTINF:-1 tvg-id="Paris.Première.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp",Paris Premiere 🇫🇷
 http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
 
@@ -1405,6 +1407,8 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png",TF1 🇫🇷
 http://212.102.60.80/TF1/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png",TF1 🇫🇷
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/192831.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://api.tv.init7.net/media/logos/2115_TF1Switzerland.ch.png",TF1 🇫🇷
 http://2.onrev.xyz:80/mag00:1A:79:58:8C:A6/E2WBEnl0Hz/192831
 
 #EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films 🇫🇷 
@@ -1412,13 +1416,17 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/
 #EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films 🇫🇷 
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202627
 #EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tf1%20series.webp",TF1 Series Films 🇫🇷 
-http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202627
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/202627.ts
 
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8 🇫🇷 
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8 🇫🇷 
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/canalplus/c8.m3u8
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/C8..webp",C8 🇫🇷 
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/202491.ts
 
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp",RTL 9 🇫🇷 
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/202635.ts
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RTL9.webp",RTL 9 🇫🇷 
 http://atlas213.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/187959
 
@@ -1427,6 +1435,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m
 
 #EXTINF:-1 tvg-id="Téva.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png",Téva 🇫🇷
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
+#EXTINF:-1 tvg-id="Téva.fr" tvg-name="" group-title="France 🇫🇷" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TEVA_HD_2014.png",Téva 🇫🇷
+http://onrev.xyz:80//live/SPIDER_NjKqYj/UrdiVGcB5A/202631.ts
 
 #EXTINF:-1 tvg-id="NRJ12.fr" group-title="France 🇫🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
@@ -2580,7 +2590,7 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧
 http://91.224.169.250:5000/c167
 #EXTINF:-1 tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇮🇹
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/6933.ch
+http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403774&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 http://185.189.225.157/EuroSport2/index.m3u8
@@ -2591,7 +2601,7 @@ http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/17602
 #EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
 http://160.19.94.16:8080/Nedzad_newLine/An35Zkb5kUQp/1546
 #EXTINF:-1 tvg-id="EUROSPORT.2.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇮🇹
-http://line.porschetv.net:80/live/GRBUBHYCIU/XVXUHZKVDH/6932.ts
+http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403775&extension=ts
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇬🇧 
 http://62.210.123.134:98/live/an75d/75d/145.ts
 #EXTINF:-1 tvg-id="EUROSPORT.2.POLAND.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇵🇱🇬🇧
