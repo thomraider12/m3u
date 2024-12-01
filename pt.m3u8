@@ -103,19 +103,19 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 
 # 📺  TVI  🔰
 
-#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="tvi.internacional.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviInternacional.webp",TVI Internacional 🇵🇹
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDQ6NDQ6NDggUE0maGFzaF92YWx1ZT1FT3BkeExPL3V5YlR4K1hHZmk2andBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmNjOGQxN2QtODJlOC00NTllLWE5MDItZThkN2Q3NGFjNDJh/
 
-#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
+#EXTINF:-1 tvg-name="" tvg-id="TVI.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",TVI 🇵🇹
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDQ6NDQ6NDcgUE0maGFzaF92YWx1ZT1zMjZkZUoxWk5Td3h2VVpiZUhsNDFBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGFlNDdlYzctM2ViNS00Mzc1LWE5NDMtOGIxNjc3ZDJjN2E0/
 
-#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-id="CNN.Portugal.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDQ6NDQ6NDggUE0maGFzaF92YWx1ZT1HNmw0VzhTUkhWdzdlQXE1VGovTmRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmZiN2Y5YjQtZDJkZC00YzVjLThjMzgtYjNmOTAwYmEzMWEx/
 
 #EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
@@ -3709,69 +3709,71 @@ http://45.5.117.3:4000/play/a04e/index.m3u8
 # 📺 𝙈𝙤𝙫𝙞𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 𝘼𝙣𝙙 𝘾𝙤𝙣𝙘𝙚𝙧𝙩𝙨
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Gaga Chromatica Ball (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6HJ8DkLd8Grxik5NiNTDvpBfCV.jpg" group-title="Live Concertos",Gaga Chromatica Ball (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Gaga Chromatica Ball (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6HJ8DkLd8Grxik5NiNTDvpBfCV.jpg",Gaga Chromatica Ball (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/234943.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dua Lipa: Live at Rock in Rio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcL7oj7wFeAGSIgZiEXZhuh2p1.jpg" group-title="Live Concertos",Dua Lipa: Live at Rock in Rio (2022)
+#EXTINF:-1 group-title="VOD" tvg-name="Dua Lipa: Live at Rock in Rio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcL7oj7wFeAGSIgZiEXZhuh2p1.jpg",Dua Lipa: Live at Rock in Rio (2022)
 http://nxt.plus:8080//movie/olmos/1234guz/193574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="TAYLOR SWIFT | THE ERAS TOUR (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg" group-title="Live Concertos",TAYLOR SWIFT | THE ERAS TOUR (2023)
+#EXTINF:-1 group-title="VOD" tvg-name="TAYLOR SWIFT | THE ERAS TOUR (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg",TAYLOR SWIFT | THE ERAS TOUR (2023)
 http://nxt.plus:8080//movie/olmos/1234guz/205122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3zuWOryev3hm00s4xv7BjNBZa.jpg" group-title="Live Concertos",Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)
+#EXTINF:-1 group-title="VOD" tvg-name="Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3zuWOryev3hm00s4xv7BjNBZa.jpg",Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)
 http://nxt.plus:8080//movie/olmos/1234guz/179185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Duna: Parte dos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg" group-title="Filmes 2024",Duna Parte dos (2024)
+
+
+#EXTINF:-1 group-title="VOD" tvg-name="Duna: Parte dos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",Duna Parte dos (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Coupled Up for Christmas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mt7I0XlVyGUnKVArlInNV5gi6D.jpg" group-title="Filmes 2024",Coupled Up for Christmas (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Coupled Up for Christmas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mt7I0XlVyGUnKVArlInNV5gi6D.jpg",Coupled Up for Christmas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/207375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Musica (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51Ixz2MaNenbb550lohNrza65ja.jpg" group-title="Filmes 2024",Musica (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Musica (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51Ixz2MaNenbb550lohNrza65ja.jpg",Musica (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225197.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="Filmes 2024",Godzilla y Kong: El nuevo imperio (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",Godzilla y Kong: El nuevo imperio (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225199.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Apocalipsis fantasma (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg" group-title="Filmes 2024",Ghostbusters: Apocalipsis fantasma (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Ghostbusters: Apocalipsis fantasma (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",Ghostbusters: Apocalipsis fantasma (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Criptoestafas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="Filmes 2024",Criptoestafas (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Criptoestafas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg",Criptoestafas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/208561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg" group-title="Filmes 2024",Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/208667.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Otra bala mas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg" group-title="Filmes 2024",Otra bala mas (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Otra bala mas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",Otra bala mas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/209000.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juego de roles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg" group-title="Filmes 2024",Juego de roles (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Juego de roles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg",Juego de roles (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/209005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lift: Un robo de primera clase (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg" group-title="Filmes 2024",Lift: Un robo de primera clase (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Lift: Un robo de primera clase (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg",Lift: Un robo de primera clase (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/209603.mkv
-#EXTINF:-1 tvg-id="" tvg-name="60 minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg" group-title="Filmes 2024",60 minutos (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="60 minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",60 minutos (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/210902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg" group-title="Filmes 2024",De las cenizas (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg",De las cenizas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/210987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aguas siniestras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg" group-title="Filmes 2024",Aguas siniestras (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Aguas siniestras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",Aguas siniestras (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/211016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Si fueras el ultimo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" group-title="Filmes 2024",Si fueras el ultimo (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Si fueras el ultimo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg",Si fueras el ultimo (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/211017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los menospreciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg" group-title="Filmes 2024",Los menospreciados (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Los menospreciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",Los menospreciados (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/212736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cazadores en tierra inhospita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" group-title="Filmes 2024",Cazadores en tierra inhospita (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Cazadores en tierra inhospita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",Cazadores en tierra inhospita (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/213144.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beekeeper: Sentencia de Muerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg" group-title="Filmes 2024",Beekeeper: Sentencia de Muerte (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Beekeeper: Sentencia de Muerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",Beekeeper: Sentencia de Muerte (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/213158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bosco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Filmes 2024",Bosco (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Bosco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg",Bosco (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/213945.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Gran Noche Del Pop (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg" group-title="Filmes 2024",La Gran Noche Del Pop (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="La Gran Noche Del Pop (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg",La Gran Noche Del Pop (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/214666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Codigo 8: Renegados (Parte II) (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg" group-title="Filmes 2024",Codigo 8: Renegados (Parte II) (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Codigo 8: Renegados (Parte II) (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",Codigo 8: Renegados (Parte II) (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/219094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUG54W76qu92g7Qrs9iob6oA6T9.jpg" group-title="Filmes 2024",Argylle: Agente secreto (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUG54W76qu92g7Qrs9iob6oA6T9.jpg",Argylle: Agente secreto (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/220207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El retorno de Los Thundermans (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg" group-title="Filmes 2024",El retorno de Los Thundermans (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="El retorno de Los Thundermans (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",El retorno de Los Thundermans (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/220224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" group-title="Filmes 2024",Ricky Stanicky: El Impostor (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",Ricky Stanicky: El Impostor (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/220225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="4K DUAL | Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSm3b2gaDTnt35RekjEEanxIusg.jpg" group-title="Filmes 2024",Argylle: Agente secreto (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="4K DUAL | Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSm3b2gaDTnt35RekjEEanxIusg.jpg",Argylle: Agente secreto (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/221217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Damsel (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg" group-title="Filmes 2024",Damsel (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Damsel (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",Damsel (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/221381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madame Web (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg" group-title="Filmes 2024",Madame Web (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Madame Web (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg",Madame Web (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/222059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El duro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg" group-title="Filmes 2024",El duro (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="El duro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",El duro (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/223498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Profesion peligro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg" group-title="Filmes 2024",Profesion peligro (2024)
+#EXTINF:-1 group-title="VOD" tvg-name="Profesion peligro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg",Profesion peligro (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/232652.mkv
 
 
