@@ -1357,7 +1357,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3f
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="" group-title="Novelas Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas 🇧🇷
-https://cdn-3.nxplay.com.br/TNT_NOVELAS/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/TNT_NOVELAS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Canal.TNT.Novelas.(Argentina).ar" group-title="Novelas Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas 🇲🇽
 http://45.184.87.142:8000/play/a02j
@@ -1475,7 +1475,7 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 #EXTINF:-1 tvg-name="" tvg-id="BBC.America.HDTV.(East).(BBC).us" group-title="USA Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/BBC%20America.webp",BBC América 🇺🇸
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="" group-title="Sports Live Events" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png",TNT 🇺🇸 🏀 
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="" group-title="USA Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png",TNT 🇺🇸 🏀 
 https://cloudserve.world/live/stream_nba4.m3u8
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" group-title="USA Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/800px-TBS_logo_2016.svg.png",TBS East 🇺🇸
@@ -2241,9 +2241,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-freetvcl-lgcl/playl
 # 📺 𝙒𝙚𝙨𝙩𝙚𝙧𝙣 & 𝘾𝙡𝙖𝙨𝙨𝙞𝙘𝙨 𝙏𝙫 📽️
 
 
-#EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="" group-title="Western & Classics Tv 📽️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240611T050314SQUARE.png",The Rotten Tomatoes (vᴘɴ 🇺🇸)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatous-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.lmt=%7BLMT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
 #EXTINF:-1 tvg-id="NOST.-.The.Nostalgia.Network.distro" group-title="Western & Classics Tv 📽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/800px-NOST-1080x1080.jpg",Nost Network (vᴘɴ 🇺🇸)
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
@@ -2251,7 +2248,7 @@ https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
 
 #EXTINF:-1 tvg-id="HITS.MOVIES.HD.my" tvg-name="HITS" group-title="Western & Classics Tv 📽️" tvg-logo="https://www.hitstv.com/assets/hits-movies-logo-color.png",HITS Movies 🇮🇳🇺🇸
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1478.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Western & Classics Tv 📽️" tvg-logo="https://canvas.tubitv.com/opts/n101qdscaAvbSg==/e1b1d4ba-dfdb-4441-a534-b34b25ce8654/CNIHEMAEOgUxLjEuMg==",WBTV Classic Cinema 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Classic-Cinema.m3u8
