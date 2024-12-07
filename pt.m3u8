@@ -507,11 +507,27 @@ http://201.230.121.95:8000/play/a069/index.m3u8
 
 # 📺 Outros
 
-#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" group-title="Liga Betclic ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",Eleven sports 4 🇵🇱
-http://178.219.128.68:64888/ELEVSPOR4HD
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Liga Betclic ⚽️" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png",SportDigital Fussball 🇩🇪
+http://d1c06d46.akadatel.com/iptv/26TKCRLCUUW9LQ/19026/index.m3u8
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Liga Betclic ⚽️" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png",SportDigital Fussball 🇩🇪
+http://d1c06d46.akadatel.com/iptv/3G86VGDV4TLZSA/31413/index.m3u8
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Liga Betclic ⚽️" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png",SportDigital Fussball 🇩🇪
+http://tv.cloudcdn.me:80/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Liga Betclic ⚽️" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png",SportDigital Fussball 🇩🇪
+http://4k4.klmvhn20.com:2082/play/live.php?mac=00:1A:79:C4:2E:77&stream=268016&extension=ts
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Liga Betclic ⚽️" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png",SportDigital Fussball 🇩🇪
+http://160.19.94.16:8080/live/OneTr_Yeni/jRqwpep3peB642/1544.ts
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" group-title="Liga Betclic ⚽️" tvg-logo="https://start.sportdigital.de/apple-touch-icon.png",SportDigital Fussball 🇩🇪
+http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=156157&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Betclic ⚽️" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт 🇷🇺
+http://185.23.80.28:8080/START/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-name="Старт" group-title="Liga Betclic ⚽️" tvg-logo="https://start.ru/static/images/favicon/apple-touch-icon.png",Старт Триумф 🇷🇺
 http://88.218.242.237:8000/play/a00d
+
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" group-title="Liga Betclic ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",Eleven sports 4 🇵🇱
+http://178.219.128.68:64888/ELEVSPOR4HD
 
 #EXTINF:-1 tvg-id="" tvg-name="CCS1" group-title="Liga Betclic ⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1024px-Ssc_sports.png",SSC1 🇸🇦
 https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8
@@ -2912,6 +2928,10 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",tdp 🇪🇸
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1 HD" group-title="Sports Premium" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/skySportF1.webp",SKY F1 🇮🇹
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/90.m3u8
+#EXTINF:-1 tvg-id="Sky Sport MotoGP HD" tvg-name="SKY Moto GP HD" group-title="Sports Premium" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/MotoGP.webp",SKY MotoGP 🇮🇹
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/91.m3u8
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="" group-title="Sports Premium" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",DAZN F1 🇪🇸 🏎️
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/33523
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="" group-title="Sports Premium" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp",DAZN F1 🇪🇸 🏎️
@@ -3009,11 +3029,9 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV.my" group-title="Sports Premium" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp",Spotv 🇲🇾🇺🇸 🏍
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV.my" group-title="Sports Premium" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp",Spotv 🇲🇾🇺🇸 🏍
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37443.m3u8
-#EXTINF:-1 tvg-id="SPOTV2.my" group-title="Sports Premium" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp",Spotv 2 🇲🇾🇺🇸
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37338.m3u8
 
+#EXTINF:-1 tvg-id="Матч! Футбол 1.ru" group-title="Sports Premium" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png",Матч! Футбол 1 🇷🇺
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="Матч! Футбол 1.ru" group-title="Sports Premium" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png",Матч! Футбол 1 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 tvg-id="Матч! Футбол 2.ru" group-title="Sports Premium" tvg-logo="https://iptvx.one/picons/match-football2.png",Матч! Футбол 2 🇷🇺
@@ -3027,12 +3045,16 @@ http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
+rtmp://5.182.229.90//7169
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
 http://82.215.111.227/1263/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
 https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 ² 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
+rtmp://5.182.229.90//7168
 #EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
 http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
@@ -3092,8 +3114,12 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 # 📺  𝙀𝙪𝙧𝙤𝙨𝗽𝙤𝙧𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇪🇸🇵🇱🇬🇧🇳🇱
 
 
-#EXTINF:-1 tvg-id="Eurosport.HD.mt" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 🇬🇧 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37434.ts
+#EXTINF:-1 tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇮🇹 
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/1551.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇬🇧 
+http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇬🇧 
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇪🇸 
 http://185.189.225.157/EuroSport1/index.m3u8 
 #EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇬🇧 
@@ -3102,10 +3128,12 @@ http://62.210.123.134:98/live/an75d/75d/144.ts
 http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/10234
 #EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇩🇪
 http://160.19.94.16:8080/Nedzad_newLine/An35Zkb5kUQp/17601
-#EXTINF:-1 tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇷🇺🇬🇧 
+#EXTINF:-1 tvg-id="EUROSPORT.1.RUSSIA.UHD.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇷🇺🇬🇧 
 http://45.159.74.14:80/Eurosport/playlist.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT.1.RUSSIA.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇷🇺 
+http://45.132.87.69:8080/eurosport1/playlist.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.POLAND.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧 
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+http://109.233.89.166/Eurosport_1_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇵🇱🇬🇧 
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇮🇹
@@ -3113,12 +3141,16 @@ http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403774&e
 #EXTINF:-1 tvg-id="Eurosport.1.tr" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇹🇷
 https://lives.anystreamrectv3.live/live/euro1.m3u8
 
+#EXTINF:-1 tvg-id="EUROSPORT.2.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇮🇹
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/2100.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 https://nxt.plus:8443/live/olmos/1234guz/59830.ts
 #EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
 http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/17602
+#EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
+rtmp://5.182.229.90//7203
 #EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
 http://160.19.94.16:8080/Nedzad_newLine/An35Zkb5kUQp/1546
 #EXTINF:-1 tvg-id="EUROSPORT.2.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇮🇹
@@ -3127,6 +3159,8 @@ http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403775&e
 http://62.210.123.134:98/live/an75d/75d/145.ts
 #EXTINF:-1 tvg-id="EUROSPORT.2.POLAND.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇵🇱🇬🇧
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT.2.RUSSIA.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇷🇺
+http://45.132.87.69:8080/eurosport2/mono.m3u8
 
 # 📺 𝙎𝗽𝙤𝗿𝙩𝙨 𝙁𝙧𝙚𝙚 𝙎𝙩𝙧𝙚𝙖𝙢𝙞𝙣𝙜 
 
@@ -3919,65 +3953,65 @@ http://nxt.plus:8080//movie/olmos/1234guz/205122.mkv
 http://nxt.plus:8080//movie/olmos/1234guz/179185.mkv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Your Monster (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNmMjU0MDAtYTQ4Ni00ODdjLWFlNjMtNDk2ZmNkMjE2Y2ZiXkEyXkFqcGc@.jpg" group-title="Cinema 🌟",Your Monster (2024)
+#EXTINF:-1 tvg-id="" tvg-name="Your Monster (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNmMjU0MDAtYTQ4Ni00ODdjLWFlNjMtNDk2ZmNkMjE2Y2ZiXkEyXkFqcGc@.jpg" group-title="CINEMA 🌟",Your Monster (2024)
 http://vp-txpro.com:80/movie/lupita73/1973/65704.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Duna: Parte dos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",Duna Parte dos (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Duna: Parte dos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",Duna Parte dos (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225262.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Coupled Up for Christmas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mt7I0XlVyGUnKVArlInNV5gi6D.jpg",Coupled Up for Christmas (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Coupled Up for Christmas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mt7I0XlVyGUnKVArlInNV5gi6D.jpg",Coupled Up for Christmas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/207375.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Musica (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51Ixz2MaNenbb550lohNrza65ja.jpg",Musica (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Musica (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51Ixz2MaNenbb550lohNrza65ja.jpg",Musica (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225197.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",Godzilla y Kong: El nuevo imperio (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",Godzilla y Kong: El nuevo imperio (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225199.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Ghostbusters: Apocalipsis fantasma (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",Ghostbusters: Apocalipsis fantasma (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Ghostbusters: Apocalipsis fantasma (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",Ghostbusters: Apocalipsis fantasma (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/225200.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Criptoestafas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg",Criptoestafas (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Criptoestafas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg",Criptoestafas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/208561.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/208667.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Otra bala mas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",Otra bala mas (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Otra bala mas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",Otra bala mas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/209000.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Juego de roles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg",Juego de roles (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Juego de roles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg",Juego de roles (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/209005.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Lift: Un robo de primera clase (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg",Lift: Un robo de primera clase (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Lift: Un robo de primera clase (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg",Lift: Un robo de primera clase (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/209603.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="60 minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",60 minutos (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="60 minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",60 minutos (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/210902.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg",De las cenizas (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg",De las cenizas (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/210987.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Aguas siniestras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",Aguas siniestras (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Aguas siniestras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",Aguas siniestras (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/211016.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Si fueras el ultimo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg",Si fueras el ultimo (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Si fueras el ultimo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg",Si fueras el ultimo (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/211017.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Los menospreciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",Los menospreciados (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Los menospreciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",Los menospreciados (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/212736.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Cazadores en tierra inhospita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",Cazadores en tierra inhospita (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Cazadores en tierra inhospita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",Cazadores en tierra inhospita (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/213144.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Beekeeper: Sentencia de Muerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",Beekeeper: Sentencia de Muerte (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Beekeeper: Sentencia de Muerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",Beekeeper: Sentencia de Muerte (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/213158.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Bosco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg",Bosco (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Bosco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg",Bosco (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/213945.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="La Gran Noche Del Pop (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg",La Gran Noche Del Pop (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="La Gran Noche Del Pop (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg",La Gran Noche Del Pop (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/214666.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Codigo 8: Renegados (Parte II) (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",Codigo 8: Renegados (Parte II) (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Codigo 8: Renegados (Parte II) (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",Codigo 8: Renegados (Parte II) (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/219094.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUG54W76qu92g7Qrs9iob6oA6T9.jpg",Argylle: Agente secreto (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUG54W76qu92g7Qrs9iob6oA6T9.jpg",Argylle: Agente secreto (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/220207.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="El retorno de Los Thundermans (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",El retorno de Los Thundermans (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="El retorno de Los Thundermans (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",El retorno de Los Thundermans (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/220224.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",Ricky Stanicky: El Impostor (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",Ricky Stanicky: El Impostor (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/220225.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="4K DUAL | Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSm3b2gaDTnt35RekjEEanxIusg.jpg",Argylle: Agente secreto (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="4K DUAL | Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSm3b2gaDTnt35RekjEEanxIusg.jpg",Argylle: Agente secreto (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/221217.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Damsel (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",Damsel (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Damsel (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",Damsel (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/221381.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Madame Web (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg",Madame Web (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Madame Web (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg",Madame Web (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/222059.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="El duro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",El duro (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="El duro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",El duro (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/223498.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-name="Profesion peligro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg",Profesion peligro (2024)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Profesion peligro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg",Profesion peligro (2024)
 http://nxt.plus:8080//movie/olmos/1234guz/232652.mkv
-#EXTINF:-1 group-title="Cinema 🌟" tvg-id="" tvg-name="Oppenheimer: el dilema de la bomba atómica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAgXJGC00jzO8An9On4QHeYMJqP.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
+#EXTINF:-1 group-title="CINEMA 🌟" tvg-id="" tvg-name="Oppenheimer: el dilema de la bomba atómica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAgXJGC00jzO8An9On4QHeYMJqP.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
 https://nxt.plus:8443/movie/olmos/1234guz/181177.mkv
 
 
