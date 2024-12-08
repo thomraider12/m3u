@@ -126,6 +126,17 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 #EXTINF:-1 tvg-name="" tvg-id="TVI.Reality.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp",TVI Reality 🇵🇹
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="V+TVI.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp",V+ TVI 🇵🇹
+https://bit.ly/3gejKxf?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="tvi.africa.pt" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi%C3%81frica.webp",TVI África 🇵🇹
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="TVI.Reality.HD.pt" group-title="Portugal 🇵🇹" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp",TVI Reality 🇵🇹
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+
 
 # 📺 𝙊𝙐𝙏𝙍𝙊𝙎 🇵🇹🇧🇷
 
@@ -133,6 +144,8 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/9b/Fazenda2023.jpg/revision/latest/scale-to-width-down/1200?cb=20231004235951&path-prefix=pt-br",A Fazenda 🇧🇷
 http://hzcdn.vood.top/hls/397630_.m3u8
 
+#EXTINF:-1 tvg-id="Mediaset.Extra.HD.it" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_def.png",Grande Fratello 🇮🇹
+http://46.232.186.35:35001/play/a04b
 #EXTINF:-1 tvg-id="Mediaset.Extra.HD.it" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_def.png",Grande Fratello 🇮🇹
 http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/68344.ts
 
@@ -202,7 +215,7 @@ http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/242.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Portugal 🇵🇹" tvg-logo="https://br.axn.com/themes/custom/responsive_sony_axn/logo.png",AXN 🇧🇷 (cc 🇵🇹🇧🇷)
 http://170.80.69.8:8000/play/a0c0/index.m3u8
 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png",Telecine Premium 🇧🇷
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png",Telecine Premium 🇧🇷 (cc 🇵🇹🇧🇷)
 http://170.80.69.8:8000/play/a0eu/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="" group-title="Portugal 🇵🇹" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png",Telecine Pipoca 🇧🇷 (cc 🇵🇹🇧🇷)
@@ -341,13 +354,11 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="" group-title="World News 📰" tvg-logo="https://play-lh.googleusercontent.com/0LJvz-_ylKtB2ILfEwhuCgNlzxVeO3jvX0X-wIEpVGy2JOhk3NEmh374nfg--K4nWeQ",Rai News 24 🇮🇹
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:-1 tvg-id="English.-.CNN.International.hk" tvg-name="" group-title="World News 📰" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN Internacional 🇺🇸
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
-#EXTINF:-1 tvg-id="English.-.CNN.International.hk" tvg-name="" group-title="World News 📰" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN Internacional 🇺🇸
-https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
-
 #EXTINF:-1 tvg-id="CNN.HD.uk" tvg-name="" group-title="World News 📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",CNN 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+
+#EXTINF:-1 tvg-id="English.-.CNN.International.hk" tvg-name="" group-title="World News 📰" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN Internacional 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
 
 #EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-name="" group-title="World News 📰" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png",CNN Highlights 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8
@@ -363,17 +374,17 @@ https://is.gd/CHzw32?SkyNews.m3u8
 #EXTINF:-1 tvg-id="USAJ3504714A" tvg-name="" group-title="World News 📰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20240520T214521SQUARE.png",Cheddar News 🇺🇸
 https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-name="NBC News NOW" group-title="World News 📰" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NBCNewsNow.webp",NBC News Now 🇺🇸
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="" group-title="World News 📰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png",Fox News Now 🇺🇸
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Fox.5.Plus.(WDCA).District.of.Columbia.us" tvg-name="" group-title="World News 📰" tvg-logo="https://static.foxtv.com/static/orion/img/wttg/favicons/apple-touch-icon-180x180.png",FOX 5 Washington DC 🇺🇸
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTTG.m3u8
 
 #EXTINF:-1 tvg-name="GB News"  tvg-id="UK:.GB.News.en" group-title="World News 📰" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png",GB News 🇬🇧
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Fox.5.Plus.(WDCA).District.of.Columbia.us" tvg-name="" group-title="World News 📰" tvg-logo="https://static.foxtv.com/static/orion/img/wttg/favicons/apple-touch-icon-180x180.png",FOX 5 Washington DC 🇺🇸
-https://live-manifest.production-public.tubi.io/live/b749bd8d-516c-4d26-a2c0-fcf9bb836a08/playlist.m3u8
+#EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-name="NBC News NOW" group-title="World News 📰" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NBCNewsNow.webp",NBC News Now 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="World News 📰" tvg-logo="https://media.nbcwashington.com/2024/08/WRC_station_logo_dark_6372d7.png?fit=276%2C58&quality=85&strip=all&w=571&h=120",NBC News Washington D.C. (vᴘɴ 🇺🇸)
 https://d3fmqi91qduj7.cloudfront.net/11401/88814566/hls/playlist.m3u8?ads.xumo_channelId=88814566&ads.xumo_streamId=88814566
@@ -439,11 +450,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estr
 
 # 📺 𝙇𝙞𝙜𝙖 𝘽𝙚𝙩𝙘𝙡𝙞𝙘 (Liga Portugal) multilanguage ⚽️
 
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Liga Betclic ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LiveEventsSports.webp",Live ⚽️
-https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live.m3u8
-#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="Liga Betclic ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/events.png",Live 1 ⚽️
-https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Liga Betclic ⚽️" tvg-logo="https://pipocamoderna.com.br/storage/2018/11/disney-pluslogo.jpg",Disney+ 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
@@ -1073,13 +1079,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="GLOBOSP" group-title="Brasil Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",Globo tv Santos 🇧🇷
 http://15.235.15.230:14513/GloboSantos
 
-#EXTINF:-1 tvg-name="" tvg-id="RECORDSP" group-title="Brasil Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png",Record tv 🇧🇷 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/recordrj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RECORDSP" group-title="Brasil Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png",Record tv sᴘ 🇧🇷
-https://abc.embedmax.site/recordSP/video.m3u8
-
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brasil Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png",BAND  🇧🇷 ⚽️ 
 http://15.235.50.115:14522/Band
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" group-title="Brasil Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png",BAND  🇧🇷 ⚽️ 
@@ -1349,7 +1348,7 @@ https://tvnoov.com/fadoo/neoxhd.m3u8
 https://tvnoov.com/fadoo/novahd.m3u8
 
 #EXTINF:-1 tvg-name="DKISS" tvg-id="DKISS.es" group-title="Spain Channels" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKiss 🇪🇸
-https://nxt.plus:8443/live/olmos/1234guz/56896.ts
+https://nxt.plus:8443//live/olmos/1234guz/56896.ts
 
 #EXTINF:-1 tvg-id="DMAX.es" group-title="Spain Channels" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",DMAX 🇪🇸🇺🇸
 https://tvnoov.com/fadoo/dmax.m3u8
@@ -1782,15 +1781,26 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&sta
 #EXTINF:-1 tvg-id="20240319T052333SQUARE" tvg-name="" group-title="France Channels" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png",BFM Grands Reportages 🇫🇷
 https://d1mw98f2f3pk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-66e36e9cu2fvd/index.m3u8
 
-
 # 📺 𝙞𝙩𝙖𝙡𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇮🇹
 
+#EXTINF:-1 tvg-id="Warner.TV.it" group-title="Italia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png",Warner tv 🇮🇹
+http://46.232.186.35:35001/play/a04g
 
+#EXTINF:-1 tvg-id="20Mediaset.HD.it" group-title="Italia Channels" tvg-logo="https://www.dtti.it/wp-content/uploads/2018/03/20_logo-1-e1574346334445.jpg",20Mediaset 🇮🇹
+http://46.232.186.35:35001/play/a047
+
+#EXTINF:-1 tvg-id="TOPcrime.HD.it" group-title="Italia Channels" tvg-logo="https://mailocal2.xyz/lv/wp-content/uploads/2020/05/topcrime.png",TopCrime 🇮🇹
+http://46.232.186.35:35001/play/a02k
+
+#EXTINF:-1 tvg-id="Rai1.it" group-title="Italia Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 🇮🇹
+http://46.232.186.35:35001/play/a05a
 #EXTINF:-1 tvg-id="Rai1.it" group-title="Italia Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 🇮🇹
 http://45.65.112.49:8000/play/a078
 #EXTINF:-1 tvg-id="Rai1.it" group-title="Italia Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai1.webp",Rai 1 🇮🇹
-http://cdn.ottshow.net:80/live/kanaliURedirect2442/kd0dk39dkyxs0A/64045.m3u8
+http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/1.m3u8
 
+#EXTINF:-1 tvg-id="Rai2.it" group-title="Italia Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp",Rai 2 🇮🇹
+http://46.232.186.35:35001/play/a058
 #EXTINF:-1 tvg-id="Rai2.it" group-title="Italia Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Rai2.webp",Rai 2 🇮🇹
 http://45.65.112.49:8000/play/a079
 
@@ -3030,36 +3040,6 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SPOTV.my" group-title="Sports Premium" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/SPOTV.webp",Spotv 🇲🇾🇺🇸 🏍
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
-#EXTINF:-1 tvg-id="Матч! Футбол 1.ru" group-title="Sports Premium" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png",Матч! Футбол 1 🇷🇺
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 tvg-id="Матч! Футбол 1.ru" group-title="Sports Premium" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png",Матч! Футбол 1 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 tvg-id="Матч! Футбол 2.ru" group-title="Sports Premium" tvg-logo="https://iptvx.one/picons/match-football2.png",Матч! Футбол 2 🇷🇺
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
-#EXTINF:-1 tvg-id="Матч! Футбол 3.ru" group-title="Sports Premium" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/69eju21628519874.png",Матч! Футбол 3 🇷🇺
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-id="Матч! Футбол 3.ru" group-title="Sports Premium" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/69eju21628519874.png",Матч! Футбол 3 🇷🇺
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
-
-#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title="Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Polsat_Sport_Logo.png",Polsat Sport 🇵🇱
-http://178.219.128.68:64889/POLSSPORHD
-
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
-rtmp://5.182.229.90//7169
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
-http://82.215.111.227/1263/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 ² 🇺🇦
-https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
-rtmp://5.182.229.90//7168
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
-http://82.215.111.227/1264/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
-https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="" group-title="Sports Premium" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en France 🇫🇷
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
@@ -3102,6 +3082,44 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 #EXTINF:-1 tvg-name="" tvg-id="Canal.Tigo.Sports.(El.Salvador).sv" group-title="Sports Premium" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A",Tigo Sports 🇭🇳
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/78408
 
+
+#EXTINF:-1 tvg-id="Матч! Футбол 1.ru" group-title="Sports Premium" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png",Матч! Футбол 1 🇷🇺
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+#EXTINF:-1 tvg-id="Матч! Футбол 1.ru" group-title="Sports Premium" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png",Матч! Футбол 1 🇷🇺
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 tvg-id="Матч! Футбол 2.ru" group-title="Sports Premium" tvg-logo="https://iptvx.one/picons/match-football2.png",Матч! Футбол 2 🇷🇺
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+#EXTINF:-1 tvg-id="Матч! Футбол 3.ru" group-title="Sports Premium" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/69eju21628519874.png",Матч! Футбол 3 🇷🇺
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-id="Матч! Футбол 3.ru" group-title="Sports Premium" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/69eju21628519874.png",Матч! Футбол 3 🇷🇺
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
+rtmp://5.182.229.90//7169
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
+http://82.215.111.227/1263/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 ² 🇺🇦
+https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
+rtmp://5.182.229.90//7168
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
+http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports Premium" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 2 🇺🇦
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="" group-title="Sports Premium" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NovaSports.webp",NovaSports 2 🇬🇷
+http://146.59.85.40:89/novasport2/mono.m3u8
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="" group-title="Sports Premium" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NovaSports.webp",NovaSports 3 🇬🇷
+http://146.59.85.40:89/novasport3/mono.m3u8
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="" group-title="Sports Premium" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NovaSports.webp",NovaSports 4 🇬🇷
+http://146.59.85.40:89/novasport4/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports Premium" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQG3SPUndQ-_jg/company-logo_200_200/company-logo_200_200/0/1630671044215?e=2147483647&v=beta&t=tUVfE_322RTsepgSVXgc10pHQoZRWuJsWR2weOtxQdY",Sirius tv 🇹🇲🇷🇺
+https://tv208.radyotelekom.com.tr/p/3493/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="SukanRTM.my" group-title="Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1600px-Sukan_RTM_1_April.png",Sukan rtm 🇲🇾🇺🇸
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
@@ -3138,6 +3156,8 @@ http://109.233.89.166/Eurosport_1_HD/playlist.m3u8
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇮🇹
 http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403774&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇨🇿🇭🇺
+https://cdnsk003.panaccess.com/local/Eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.tr" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 1 🇹🇷
 https://lives.anystreamrectv3.live/live/euro1.m3u8
 
@@ -3146,7 +3166,7 @@ http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/2100.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇪🇸 
-https://nxt.plus:8443/live/olmos/1234guz/59830.ts
+https://nxt.plus:8443//live/olmos/1234guz/59830.ts
 #EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
 http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/17602
 #EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇩🇪
@@ -3159,6 +3179,8 @@ http://4k4.klmvhn20.com:8080/play/live.php?mac=00:1A:79:C4:2E:77&stream=403775&e
 http://62.210.123.134:98/live/an75d/75d/145.ts
 #EXTINF:-1 tvg-id="EUROSPORT.2.POLAND.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇵🇱🇬🇧
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇨🇿🇭🇺
+https://cdnsk003.panaccess.com/local/Eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="EUROSPORT.2.RUSSIA.eurosport" tvg-name="" group-title="Eurosport Channels" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png",Eurosport 2 🇷🇺
 http://45.132.87.69:8080/eurosport2/mono.m3u8
 
@@ -3302,6 +3324,9 @@ https://bit.ly/3q3zsn6?GBBA33000529G.m3u8
 
 #EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="Tennis Channels" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 🎾
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="" group-title="Tennis Channels" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Super%20Tennis.webp",SuperTennis 🇮🇹
+http://46.232.186.35:35001/play/a01o
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="" group-title="Tennis Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tennistv.webp",Tennis tv 🇺🇸 🎾
 http://49.0.64.96:8007/TENNIS
@@ -3531,12 +3556,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD300021B8" tvg-name="" group-title="Combat Channels 🥊" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114CIRCLE.png",MSG Sports Zone 🇺🇸
 https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 
-
 # 📺  𝙋𝙤𝙆𝙚𝙧 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🃏
-
-
-#EXTINF:-1 tvg-name="♠️" tvg-id="Sportstak.distro" group-title="Poker Channels 🃏"  tvg-logo="https://a.jsrdn.com/hls/22964/sportstak/logo_20240813_222015_68.png",SportStak 🇺🇸
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
 
 #EXTINF:-1 tvg-name="♠️" tvg-id="63eba66da8b2270008436b10" group-title="Poker Channels 🃏"  tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",World Poker Tour 🇧🇷
 https://cc-b6qwhugqif6k0.akamaized.net/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
@@ -3553,6 +3573,8 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 # 📺  𝘽𝙞𝙡𝙡𝙞𝙖𝙧𝙙𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🎱
 
+#EXTINF:-1 tvg-name="" tvg-id="Sportstak.distro" group-title="Billard Channels 🎱"  tvg-logo="https://a.jsrdn.com/hls/22964/sportstak/logo_20240813_222015_68.png",SportStak 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  group-title="Billard Channels 🎱" tvg-logo="https://tv.kozoom.com/favicon.ico",Kozoom 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
@@ -3904,27 +3926,35 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",Europulse 💥
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Sextreme
+# 📺 PORN 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5e417c0490797f22541997/f079cf7e-d3d0-4d5b-85ab-364f785b19a8/VMG_LOGO1copy.webp" group-title="+18 🔞",Vixen
+https://cdnsk003.panaccess.com/local/Vixen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Dorceltv.webp",Dorcel tv
+https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LEOtvGold.webp",LeoTV
+https://cdnsk003.panaccess.com/local/LeoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sextreme.webp",Sextreme
 http://38.41.8.1:8000/play/a0ex
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Blacked 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/adultos/blacked.png"",Blacked 
 http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Erox HD
 http://178.219.128.68:64888/EROXHD
-
-#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Penthouse Reality tv 
-http://78.130.250.2:8023/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Barely Legal
 http://ott.watch/stream/83K27DP6PU/289.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Barely Legal
 http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",🔞 Bunga Bunga 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Bunga Bunga 
 http://62.210.123.134:98/live/an75d/75d/98.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",🔞 XDesire 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/10/x-desire-tv-logo.png",XDesire 
 http://62.210.123.134:98/live/an75d/75d/99.m3u8
 
 #EXTINF:-1 tvg-id="PBTVHD" group-title="Adult Channels 🔞" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Playboy%20TV.webp",Playboy TV  
@@ -3934,85 +3964,88 @@ http://181.78.105.146:6060/play/a052
 #EXTINF:-1 tvg-id="PBTVHD" group-title="Adult Channels 🔞" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Playboy%20TV.webp",Playboy TV 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Venus.ar" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Venus tv 🇦🇷 
+#EXTINF:-1 tvg-id="Venus.ar" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png",Venus tv 🇦🇷 
 http://168.181.122.234:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="Venus.ar" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Venus tv 🇦🇷 
+#EXTINF:-1 tvg-id="Venus.ar" tvg-name="" group-title="Adult Channels 🔞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png",Venus tv 🇦🇷 
 http://45.5.117.3:4000/play/a04e/index.m3u8
+
+
+# 📺 𝘾𝙤𝙣𝙘𝙚𝙧𝙩𝙨
+
+
+#EXTINF:-1 group-title="CONCERTOS 🎙️" tvg-name="Gaga Chromatica Ball (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6HJ8DkLd8Grxik5NiNTDvpBfCV.jpg",Gaga Chromatica Ball (2024)
+https://nxt.plus:8443//movie/olmos/1234guz/234943.mkv
+#EXTINF:-1 group-title="CONCERTOS 🎙️" tvg-name="Dua Lipa: Live at Rock in Rio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcL7oj7wFeAGSIgZiEXZhuh2p1.jpg",Dua Lipa: Live at Rock in Rio (2022)
+https://nxt.plus:8443//movie/olmos/1234guz/193574.mkv
+#EXTINF:-1 group-title="CONCERTOS 🎙️" tvg-name="TAYLOR SWIFT | THE ERAS TOUR (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg",TAYLOR SWIFT | THE ERAS TOUR (2023)
+https://nxt.plus:8443//movie/olmos/1234guz/205122.mkv
+#EXTINF:-1 group-title="CONCERTOS 🎙️" tvg-name="Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3zuWOryev3hm00s4xv7BjNBZa.jpg",Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)
+https://nxt.plus:8443//movie/olmos/1234guz/179185.mkv
 
 
 # 📺 𝙈𝙤𝙫𝙞𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 𝘼𝙣𝙙 𝘾𝙤𝙣𝙘𝙚𝙧𝙩𝙨
 
 
-#EXTINF:-1 group-title="Concertos" tvg-name="Gaga Chromatica Ball (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6HJ8DkLd8Grxik5NiNTDvpBfCV.jpg",Gaga Chromatica Ball (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/234943.mkv
-#EXTINF:-1 group-title="Concertos" tvg-name="Dua Lipa: Live at Rock in Rio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bcL7oj7wFeAGSIgZiEXZhuh2p1.jpg",Dua Lipa: Live at Rock in Rio (2022)
-http://nxt.plus:8080//movie/olmos/1234guz/193574.mkv
-#EXTINF:-1 group-title="Concertos" tvg-name="TAYLOR SWIFT | THE ERAS TOUR (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg",TAYLOR SWIFT | THE ERAS TOUR (2023)
-http://nxt.plus:8080//movie/olmos/1234guz/205122.mkv
-#EXTINF:-1 group-title="Concertos" tvg-name="Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3zuWOryev3hm00s4xv7BjNBZa.jpg",Queen: En Vivo en Budapest - Hungarian Rhapsody (1987)
-http://nxt.plus:8080//movie/olmos/1234guz/179185.mkv
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Your Monster (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNmMjU0MDAtYTQ4Ni00ODdjLWFlNjMtNDk2ZmNkMjE2Y2ZiXkEyXkFqcGc@.jpg" group-title="CINEMA 🌟",Your Monster (2024)
 http://vp-txpro.com:80/movie/lupita73/1973/65704.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Duna: Parte dos (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",Duna Parte dos (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/225262.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/225262.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Coupled Up for Christmas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mt7I0XlVyGUnKVArlInNV5gi6D.jpg",Coupled Up for Christmas (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/207375.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/207375.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Musica (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51Ixz2MaNenbb550lohNrza65ja.jpg",Musica (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/225197.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/225197.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",Godzilla y Kong: El nuevo imperio (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/225199.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/225199.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Ghostbusters: Apocalipsis fantasma (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",Ghostbusters: Apocalipsis fantasma (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/225200.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/225200.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Criptoestafas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg",Criptoestafas (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/208561.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/208561.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/208667.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/208667.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Otra bala mas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",Otra bala mas (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/209000.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/209000.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Juego de roles (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg",Juego de roles (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/209005.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/209005.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Lift: Un robo de primera clase (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg",Lift: Un robo de primera clase (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/209603.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/209603.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="60 minutos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",60 minutos (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/210902.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/210902.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="De las cenizas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg",De las cenizas (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/210987.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/210987.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Aguas siniestras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",Aguas siniestras (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/211016.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/211016.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Si fueras el ultimo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg",Si fueras el ultimo (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/211017.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/211017.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Los menospreciados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",Los menospreciados (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/212736.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/212736.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Cazadores en tierra inhospita (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",Cazadores en tierra inhospita (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/213144.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/213144.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Beekeeper: Sentencia de Muerte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",Beekeeper: Sentencia de Muerte (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/213158.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/213158.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Bosco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg",Bosco (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/213945.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/213945.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="La Gran Noche Del Pop (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg",La Gran Noche Del Pop (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/214666.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/214666.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Codigo 8: Renegados (Parte II) (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",Codigo 8: Renegados (Parte II) (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/219094.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/219094.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUG54W76qu92g7Qrs9iob6oA6T9.jpg",Argylle: Agente secreto (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/220207.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/220207.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="El retorno de Los Thundermans (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",El retorno de Los Thundermans (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/220224.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/220224.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Ricky Stanicky: El Impostor (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",Ricky Stanicky: El Impostor (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/220225.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/220225.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="4K DUAL | Argylle: Agente secreto (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSm3b2gaDTnt35RekjEEanxIusg.jpg",Argylle: Agente secreto (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/221217.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/221217.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Damsel (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",Damsel (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/221381.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/221381.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Madame Web (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8enikn5rdpsVyQd1qnpOqpACZqO.jpg",Madame Web (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/222059.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/222059.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="El duro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",El duro (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/223498.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/223498.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-name="Profesion peligro (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg",Profesion peligro (2024)
-http://nxt.plus:8080//movie/olmos/1234guz/232652.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/232652.mkv
 #EXTINF:-1 group-title="CINEMA 🌟" tvg-id="" tvg-name="Oppenheimer: el dilema de la bomba atómica (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAgXJGC00jzO8An9On4QHeYMJqP.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
-https://nxt.plus:8443/movie/olmos/1234guz/181177.mkv
+https://nxt.plus:8443//movie/olmos/1234guz/181177.mkv
 
 
 
