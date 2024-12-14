@@ -498,9 +498,9 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 --- 📺 𝙇𝙞𝙜𝙖 𝘽𝙚𝙩𝙘𝙡𝙞𝙘 ⚽️
 
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Liga Betclic ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LiveEventsSports.webp",Live ⚽️
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/LiveEventsSports.webp",Live ⚽️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live.m3u8
-#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="Liga Betclic ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/events.png",Live 1 ⚽️
+#EXTINF:-1 tvg-id="BTV1.HD.pt" group-title="Liga Betclic 🇵🇹 ⚽️" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/events.png",Live 1 ⚽️
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/live1.m3u8
 
 #EXTINF:-1 CUID="142" tvg-chno="159" tvg-name="Disney+ 🇧🇷" tvg-logo="https://pipocamoderna.com.br/storage/2018/11/disney-pluslogo.jpg" group-title="Liga Betclic 🇵🇹 ⚽️",Disney+ 🇧🇷
