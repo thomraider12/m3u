@@ -984,17 +984,14 @@ https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 cuid="316" tvg-chno="316" tvg-name="Warner Channel 🇧🇷" tvg-id="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Brasil Channels",Warner Channel 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/warner/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 cuid="317" tvg-chno="317" tvg-name="Warner Channel 🇧🇷" tvg-id="WARNERCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Brasil Channels",Warner Channel 🇧🇷
-https://cdn-3.nxplay.com.br/WARNER_CHANNEL/tracks-v2a1/mono.m3u8
+https://abc.embedmax.site/warnertv/video.m3u8
 
 #EXTINF:-1 cuid="318" tvg-chno="318" tvg-name="TNT 🇧🇷" tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Brasil Channels",TNT 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/tnt/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 cuid="319" tvg-chno="319" tvg-name="TNT 🇧🇷" tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Brasil Channels",TNT 🇧🇷
-https://cdn-3.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
-
+https://abc.embedmax.site/tnt/video.m3u8
 #EXTINF:-1 cuid="320" tvg-chno="320" tvg-name="TNT 🇧🇷" tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Brasil Channels",TNT 🇧🇷
 http://dzcdn.vood.top/hls/733_.m3u8
 
@@ -1005,12 +1002,8 @@ https://embedcanaistv.club/tntseries/video.m3u8
 #EXTINF:-1 cuid="322" tvg-chno="322" tvg-name="Megapix 🇧🇷" tvg-id="MEGAPIX" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png" group-title="Brasil Channels",Megapix 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/megapix/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 cuid="323" tvg-chno="323" tvg-name="Megapix 🇧🇷" tvg-id="MEGAPIX" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png" group-title="Brasil Channels",Megapix 🇧🇷
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
-
-#EXTINF:-1 cuid="324" tvg-chno="324" tvg-name="Space 🇧🇷" tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="Brasil Channels",Space 🇧🇷
-https://cdn-3.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="325" tvg-chno="325" tvg-name="Space 🇧🇷" tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="Brasil Channels",Space 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
@@ -1036,7 +1029,6 @@ https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 
 #EXTINF:-1 cuid="332" tvg-chno="332" tvg-name="Lifetime 🇧🇷" tvg-id="LIFETIME" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q" group-title="Brasil Channels",Lifetime 🇧🇷
 https://cdn-3.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 cuid="333" tvg-chno="333" tvg-name="Lifetime 🇧🇷" tvg-id="LIFETIME" tvg-logo="https://play-lh.googleusercontent.com/446I-cmx0DeTG1vRcSAZHbvw-hWezDfpi67yjeJZuCECUjtek7iIiHiwwLFU4UrW2Q" group-title="Brasil Channels",Lifetime 🇧🇷
 http://xciptv.8888play.one/live/228463308/r576049x/2488.ts
 
@@ -1044,18 +1036,18 @@ http://xciptv.8888play.one/live/228463308/r576049x/2488.ts
 http://15.235.11.7:14075/OFF
 
 #EXTINF:-1 cuid="335" tvg-chno="335" tvg-name="Viva 🇧🇷" tvg-id="VIVA" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil Channels",Viva 🇧🇷
+https://abc.embedmax.site/viva/video.m3u8
+#EXTINF:-1 cuid="335" tvg-chno="335" tvg-name="Viva 🇧🇷" tvg-id="VIVA" tvg-logo="https://yt3.googleusercontent.com/jZtv-nRNSTE6uxIp98GLKVPxFY2Xhs1CeTy8__M2Jq9k2yI5ojEeZvAEmlW0kpDqjuoRW4bLkw=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil Channels",Viva 🇧🇷
 http://xciptv.8888play.one/live/228463308/r576049x/2535.ts
 
 #EXTINF:-1 cuid="336" tvg-chno="336" tvg-name="TLC 🇧🇷" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Brasil Channels",TLC 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/tlc/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 cuid="337" tvg-chno="337" tvg-name="TLC 🇧🇷" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Brasil Channels",TLC 🇧🇷
 http://xciptv.8888play.one/live/228463308/r576049x/728.ts
 
 #EXTINF:-1 cuid="338" tvg-chno="338" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="Brasil Channels",A&E 🇧🇷
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
-
 #EXTINF:-1 cuid="339" tvg-chno="339" tvg-name="A&E 🇧🇷" tvg-id="AE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png" group-title="Brasil Channels",A&E 🇧🇷
 https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v2a1/mono.m3u8
 
@@ -1070,14 +1062,12 @@ http://xciptv.8888play.one/live/228463308/r576049x/21323.ts
 
 #EXTINF:-1 cuid="343" tvg-chno="343" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" group-title="Brasil Channels",History 🇧🇷
 https://cdn-3.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 cuid="344" tvg-chno="344" tvg-name="History 🇧🇷" tvg-id="HISTORY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" group-title="Brasil Channels",History 🇧🇷
 http://xciptv.8888play.one/live/228463308/r576049x/59173.ts
 
 #EXTINF:-1 cuid="345" tvg-chno="345" tvg-name="H2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/history2-300x150-1.webp" group-title="Brasil Channels",H2 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/history2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 cuid="346" tvg-chno="346" tvg-name="H2 🇧🇷" tvg-id="HISTORY2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/history2-300x150-1.webp" group-title="Brasil Channels",H2 🇧🇷
 https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
@@ -1087,7 +1077,6 @@ https://embedcanaistv.club/nationalgeografic/video.m3u8
 
 #EXTINF:-1 cuid="348" tvg-chno="348" tvg-name="Discovery World 🇧🇷" tvg-id="DISCOVERYWORLD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DiscoveryIndia.webp" group-title="Brasil Channels",Discovery World 🇧🇷
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 cuid="349" tvg-chno="349" tvg-name="Discovery World 🇧🇷" tvg-id="DISCOVERYWORLD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DiscoveryIndia.webp" group-title="Brasil Channels",Discovery World 🇧🇷
 http://15.235.50.112:14112/DiscoveryWorld
 
@@ -1096,7 +1085,6 @@ http://xciptv.8888play.one/live/228463308/r576049x/22305.ts
 
 #EXTINF:-1 cuid="351" tvg-chno="351" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="Brasil Channels",Discovery Science 🇧🇷
 http://xciptv.8888play.one/live/228463308/r576049x/2582.ts
-
 #EXTINF:-1 cuid="352" tvg-chno="352" tvg-name="Discovery Science 🇧🇷" tvg-id="DISCOVERYSCIENCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png" group-title="Brasil Channels",Discovery Science 🇧🇷
 https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
@@ -1111,10 +1099,8 @@ http://15.235.15.230:14488/GLOBOSP
 
 #EXTINF:-1 cuid="356" tvg-chno="356" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brasil Channels",Globo sᴘ 🇧🇷 ⚽️
 https://abc.embedmax.site/globoSP/video.m3u8
-
 #EXTINF:-1 cuid="357" tvg-chno="357" tvg-name="Globo sᴘ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brasil Channels",Globo sᴘ 🇧🇷 ⚽️
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 cuid="358" tvg-chno="358" tvg-name="Globo ʀᴊ 🇧🇷 ⚽️" tvg-id="GLOBOSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brasil Channels",Globo ʀᴊ 🇧🇷 ⚽️
 https://abc.embedmax.site/globoRJ/video.m3u8
 
@@ -1126,10 +1112,8 @@ http://15.235.15.230:14513/GloboSantos
 
 #EXTINF:-1 cuid="361" tvg-chno="361" tvg-name="BAND  🇧🇷 ⚽️" tvg-id="BAND" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brasil Channels",BAND  🇧🇷 ⚽️
 http://15.235.50.115:14522/Band
-
 #EXTINF:-1 cuid="362" tvg-chno="362" tvg-name="BAND  🇧🇷 ⚽️" tvg-id="BAND" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brasil Channels",BAND  🇧🇷 ⚽️
 https://abc.embedmax.site/band/video.m3u8
-
 #EXTINF:-1 cuid="363" tvg-chno="363" tvg-name="BAND 🇧🇷 ⚽️" tvg-id="BAND" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brasil Channels",BAND 🇧🇷 ⚽️
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
@@ -1138,13 +1122,11 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 cuid="365" tvg-chno="365" tvg-name="SBT Interior 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Brasil Channels",SBT Interior 🇧🇷
 https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
-
 #EXTINF:-1 cuid="366" tvg-chno="366" tvg-name="SBT Interior 🇧🇷" tvg-id="SBTSP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="Brasil Channels",SBT Interior 🇧🇷
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 cuid="367" tvg-chno="367" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://github.com/inspirationlinks/m3u/blob/live/LogosTv/canalcurta.webp" group-title="Brasil Channels",Curta! 🇧🇷
 http://15.235.50.114:19171/Curta
-
 #EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="Brasil Channels",Curta! 🇧🇷
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
@@ -2930,34 +2912,25 @@ http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/829.m3u8
 #EXTINF:-1 cuid="946" tvg-chno="946" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="Sports Brasilien 🇧🇷",Band Sport 🇧🇷
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com
 https://embedcanaistv.club/bandsports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 cuid="947" tvg-chno="947" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="Sports Brasilien 🇧🇷",Band Sport 🇧🇷
-http://dzcdn.vood.top/hls/232_.m3u8
-
+https://dzcdn.vood.top/hls/232_.m3u8
 #EXTINF:-1 cuid="948" tvg-chno="948" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="Sports Brasilien 🇧🇷",Band Sport 🇧🇷
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/48534
 
-#EXTINF:-1 cuid="949" tvg-chno="949" tvg-name="Band Sport 🇧🇷" tvg-id="BANDSPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/brazil/band-sports-br.png" group-title="Sports Brasilien 🇧🇷",Band Sport 🇧🇷
-https://cdn-3.nxplay.com.br/BAND_SPORTS/index.m3u8
-
 #EXTINF:-1 cuid="950" tvg-chno="950" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-1-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/178
-
 #EXTINF:-1 cuid="951" tvg-chno="951" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-1-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 🇧🇷
 https://super-cdn.link/sportv/index.m3u8
-
 #EXTINF:-1 cuid="952" tvg-chno="952" tvg-name="Sportv 🇧🇷" tvg-id="SPORTV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-1-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 🇧🇷
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16753.ts
 
 #EXTINF:-1 cuid="953" tvg-chno="953" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 2 🇧🇷
 https://super-cdn.link/sportv2/index.m3u8
-
 #EXTINF:-1 cuid="954" tvg-chno="954" tvg-name="Sportv 2 🇧🇷" tvg-id="SPORTV2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 2 🇧🇷
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172
 
 #EXTINF:-1 cuid="955" tvg-chno="955" tvg-name="Sportv 3 🇧🇷 🥊🏎️" tvg-id="SPORTV3" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 3 🇧🇷 🥊🏎️
 https://super-cdn.link/sportv3/index.m3u8
-
 #EXTINF:-1 cuid="956" tvg-chno="956" tvg-name="Sportv 3 🇧🇷 🥊🏎️" tvg-id="SPORTV3" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png" group-title="Sports Brasilien 🇧🇷",Sportv 3 🇧🇷 🥊🏎️
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
@@ -2969,37 +2942,31 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/164
 
 #EXTINF:-1 cuid="959" tvg-chno="959" tvg-name="Premiere 2" tvg-id="PREMIERE2" tvg-logo="https://imgur.com/oTkPiQA.png" group-title="Sports Brasilien 🇧🇷",Premiere 2
 https://super-cdn.link/premiere2/index.m3u8
-
 #EXTINF:-1 cuid="960" tvg-chno="960" tvg-name="Premiere 2" tvg-id="PREMIERE2" tvg-logo="https://imgur.com/oTkPiQA.png" group-title="Sports Brasilien 🇧🇷",Premiere 2
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/150
 
 #EXTINF:-1 cuid="961" tvg-chno="961" tvg-name="Premiere 3" tvg-id="PREMIERE3" tvg-logo="https://imgur.com/s81XtWC.png" group-title="Sports Brasilien 🇧🇷",Premiere 3
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/152
-
 #EXTINF:-1 cuid="962" tvg-chno="962" tvg-name="Premiere 3" tvg-id="PREMIERE3" tvg-logo="https://imgur.com/s81XtWC.png" group-title="Sports Brasilien 🇧🇷",Premiere 3
 https://super-cdn.link/premiere3/index.m3u8
 
 #EXTINF:-1 cuid="963" tvg-chno="963" tvg-name="Premiere 4" tvg-id="PREMIERE4" tvg-logo="https://imgur.com/BT5vktj.png" group-title="Sports Brasilien 🇧🇷",Premiere 4
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
-
 #EXTINF:-1 cuid="964" tvg-chno="964" tvg-name="Premiere 4" tvg-id="PREMIERE4" tvg-logo="https://imgur.com/BT5vktj.png" group-title="Sports Brasilien 🇧🇷",Premiere 4
 https://super-cdn.link/premiere4/index.m3u8
 
 #EXTINF:-1 cuid="965" tvg-chno="965" tvg-name="Premiere 5" tvg-id="PREMIERE5" tvg-logo="https://imgur.com/eLomVAg.png" group-title="Sports Brasilien 🇧🇷",Premiere 5
 https://super-cdn.link/premiere5/index.m3u8
-
 #EXTINF:-1 cuid="966" tvg-chno="966" tvg-name="Premiere 5" tvg-id="PREMIERE5" tvg-logo="https://imgur.com/eLomVAg.png" group-title="Sports Brasilien 🇧🇷",Premiere 5
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/156
 
 #EXTINF:-1 cuid="967" tvg-chno="967" tvg-name="Premiere 6" tvg-id="PREMIERE6" tvg-logo="https://imgur.com/DrogUkK.png" group-title="Sports Brasilien 🇧🇷",Premiere 6
 https://super-cdn.link/premiere6/index.m3u8
-
 #EXTINF:-1 cuid="968" tvg-chno="968" tvg-name="Premiere 6" tvg-id="PREMIERE6" tvg-logo="https://imgur.com/DrogUkK.png" group-title="Sports Brasilien 🇧🇷",Premiere 6
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/158
 
 #EXTINF:-1 cuid="969" tvg-chno="969" tvg-name="Premiere 7" tvg-id="PREMIERE7" tvg-logo="https://imgur.com/doQNvx2.png" group-title="Sports Brasilien 🇧🇷",Premiere 7
 https://super-cdn.link/premiere7/index.m3u8
-
 #EXTINF:-1 cuid="970" tvg-chno="970" tvg-name="Premiere 7" tvg-id="PREMIERE7" tvg-logo="https://imgur.com/doQNvx2.png" group-title="Sports Brasilien 🇧🇷",Premiere 7
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
 
@@ -3035,7 +3002,7 @@ http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/33523
 #EXTINF:-1 cuid="980" tvg-chno="980" tvg-name="DAZN F1 🇪🇸 🏎️" tvg-id="DAZN.F1.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DAZN%20F1.webp" group-title="Sports Premium",DAZN F1 🇪🇸 🏎️
 http://streamsy.online:2999/live/coachj88/N93DPKS9pJ/1650.ts
 
-#EXTINF:-1 cuid="981" tvg-chno="981" tvg-name="Sky Sports F1 🇬🇧 🏎️" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports Premium",Sky Sports F1 🇬🇧 🏎️
+#EXTINF:-1 cuid="981" tvg-chno="981" tvg-name="Racing tv" tvg-id="Racing.TV.HD.uk" tvg-logo="https://play-lh.googleusercontent.com/L_cf3LeKYOrY8hqxKUebehMR3frjJ-GNoJHW0lKJ-MSeWwizl191HTMtN-wkDUu6TFKI" group-title="Sports Premium",Racing tv 🇬🇧 🐴
 http://tkosportz.live:25461/live/swilder2023/6063815781/105962.ts
 
 #EXTINF:-1 cuid="982" tvg-chno="982" tvg-name="NBA 🇺🇸 🏀" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Nba.webp" group-title="Sports Premium",NBA 🇺🇸 🏀
@@ -3043,16 +3010,11 @@ http://49.0.64.96:8007/NBA
 
 #EXTINF:-1 cuid="983" tvg-chno="983" tvg-name="bein Sport 1 🇬🇧" tvg-id="beIN.SPORTS.1.my" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Sports Premium",bein Sport 1 🇬🇧
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37432.m3u8
-
-#EXTINF:-1 cuid="984" tvg-chno="984" tvg-name="bein Sport 1 🇫🇷" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Sports Premium",bein Sport 1 🇫🇷
-https://caeth9oon3die4.eyespeeled.click/hls/1cb913c2589988f0-8566a5819932b98ef90d309c37b6adf1da974d4349a79a8e31d14e80f76da4af/live.m3u8
-
 #EXTINF:-1 cuid="985" tvg-chno="985" tvg-name="bein Sport 1 🇫🇷" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Sports Premium",bein Sport 1 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1 cuid="986" tvg-chno="986" tvg-name="bein Sport 2 🇬🇧" tvg-id="beIN.SPORTS.2.my" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Sports Premium",bein Sport 2 🇬🇧
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48099.ts
-
 #EXTINF:-1 cuid="987" tvg-chno="987" tvg-name="bein Sport 3 🇬🇧" tvg-id="beIN.SPORTS.3.my" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BeinSports.webp" group-title="Sports Premium",bein Sport 3 🇬🇧
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37433.m3u8
 
@@ -3076,7 +3038,6 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 cuid="994" tvg-chno="994" tvg-name="ESPN 🇺🇸" tvg-id="ESPN.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp" group-title="Sports Premium",ESPN 🇺🇸
 https://b.trydarius.shop/espn.m3u8
-
 #EXTINF:-1 cuid="995" tvg-chno="995" tvg-name="ESPN 2 🇺🇸" tvg-id="ESPN2.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ESPNusa.webp" group-title="Sports Premium",ESPN 2 🇺🇸
 https://b.trydarius.shop/espn2.m3u8
 
@@ -3085,34 +3046,25 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 cuid="997" tvg-chno="997" tvg-name="Hub Premier 1 🇸🇬" tvg-id="Hub.Premier.1.sg" tvg-logo="https://logo.iptveditor.com/hubpremier1.png" group-title="Sports Premium",Hub Premier 1 🇸🇬
 http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
-
 #EXTINF:-1 cuid="998" tvg-chno="998" tvg-name="Hub Premier 2 🇸🇬" tvg-id="Hub.Premier.2.sg" tvg-logo="https://logo.iptveditor.com/hubpremier2.png" group-title="Sports Premium",Hub Premier 2 🇸🇬
 http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
-
 #EXTINF:-1 cuid="999" tvg-chno="999" tvg-name="Hub Premier 3 🇸🇬" tvg-id="Hub.Premier.3.sg" tvg-logo="https://logo.iptveditor.com/hubpremier3.png" group-title="Sports Premium",Hub Premier 3 🇸🇬
 http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
-
 #EXTINF:-1 cuid="1000" tvg-chno="1000" tvg-name="Hub Premier 4 🇸🇬" tvg-id="Hub.Premier.4.sg" tvg-logo="https://logo.iptveditor.com/hubpremier4.png" group-title="Sports Premium",Hub Premier 4 🇸🇬
 http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
-
 #EXTINF:-1 cuid="1001" tvg-chno="1001" tvg-name="Hub Premier 5 🇸🇬" tvg-id="Hub.Premier.5.sg" tvg-logo="https://logo.iptveditor.com/hubpremier5.png" group-title="Sports Premium",Hub Premier 5 🇸🇬
 http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
 
 #EXTINF:-1 cuid="1002" tvg-chno="1002" tvg-name="V Sport Vinter 🇸🇪" tvg-id="V.Sport.Vinter.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Premium",V Sport Vinter 🇸🇪
 http://62.210.211.188:2095/play/a00q
-
 #EXTINF:-1 cuid="1003" tvg-chno="1003" tvg-name="V Sport 🇸🇪" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Premium",V Sport 🇸🇪
 http://62.210.211.188:2095/play/a001
-
 #EXTINF:-1 cuid="1004" tvg-chno="1004" tvg-name="V Sport 1 🇸🇪" tvg-id="V.Sport.Live.1.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Premium",V Sport 1 🇸🇪
 http://62.210.211.188:2095/play/a002
-
 #EXTINF:-1 cuid="1005" tvg-chno="1005" tvg-name="V Sport 2 🇸🇪" tvg-id="V.Sport.Live.2.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Premium",V Sport 2 🇸🇪
 http://62.210.211.188:2095/play/a003
-
 #EXTINF:-1 cuid="1006" tvg-chno="1006" tvg-name="V Sport 3 🇸🇪" tvg-id="V.Sport.Live.3.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Premium",V Sport 3 🇸🇪
 http://62.210.211.188:2095/play/a004
-
 #EXTINF:-1 cuid="1007" tvg-chno="1007" tvg-name="V Sport 4 🇸🇪" tvg-id="V.Sport.Live.4.se" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="Sports Premium",V Sport 4 🇸🇪
 http://62.210.211.188:2095/play/a005
 
@@ -3238,29 +3190,29 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 cuid="1047" tvg-chno="1047" tvg-name="Eurosport 1 🇮🇹" tvg-id="EUROSPORT.1.ITALY.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇮🇹
 http://world-panel.co:8080/live/@LidiaTrov@/19Dar!Lid82/1551.m3u8
 
-#EXTINF:-1 cuid="1048" tvg-chno="1048" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇬🇧
-http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
-
-#EXTINF:-1 cuid="1049" tvg-chno="1049" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇬🇧
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
-#EXTINF:-1 cuid="1050" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇪🇸
+#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇪🇸
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 cuid="1051" tvg-chno="1051" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇬🇧
+#EXTINF:-1 cuid="1049" tvg-chno="1051" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.BRITISH.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇬🇧
 http://62.210.123.134:98/live/an75d/75d/144.ts
 
-#EXTINF:-1 cuid="1052" tvg-chno="1052" tvg-name="Eurosport 1 🇩🇪" tvg-id="Eurosport.1.de" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪
+#EXTINF:-1 cuid="1050" tvg-chno="1052" tvg-name="Eurosport 1 🇩🇪" tvg-id="Eurosport.1.de" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪
 http://160.19.94.16:8080/OneTr_Yeni/jRqwpep3peB642/10234
 
-#EXTINF:-1 cuid="1053" tvg-chno="1053" tvg-name="Eurosport 1 🇩🇪" tvg-id="Eurosport.1.de" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪
+#EXTINF:-1 cuid="1051" tvg-chno="1053" tvg-name="Eurosport 1 🇩🇪" tvg-id="Eurosport.1.de" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇩🇪
 http://160.19.94.16:8080/Nedzad_newLine/An35Zkb5kUQp/17601
 
-#EXTINF:-1 cuid="1054" tvg-chno="1054" tvg-name="Eurosport 1 🇷🇺🇬🇧" tvg-id="EUROSPORT.1.RUSSIA.UHD.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇷🇺🇬🇧
+#EXTINF:-1 cuid="1052" tvg-chno="1054" tvg-name="Eurosport 1 🇷🇺🇬🇧" tvg-id="EUROSPORT.1.RUSSIA.UHD.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇷🇺🇬🇧
 http://45.159.74.14/Eurosport/playlist.m3u8
 
-#EXTINF:-1 cuid="1055" tvg-chno="1055" tvg-name="Eurosport 1 🇷🇺" tvg-id="EUROSPORT.1.RUSSIA.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇷🇺
+#EXTINF:-1 cuid="1053" tvg-chno="1055" tvg-name="Eurosport 1 🇷🇺" tvg-id="EUROSPORT.1.RUSSIA.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇷🇺
 http://45.132.87.69:8080/eurosport1/playlist.m3u8
+
+#EXTINF:-1 cuid="1054" tvg-chno="1048" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.RUSSIA.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇷🇺🇬🇧
+http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+
+#EXTINF:-1 cuid="1055" tvg-chno="1049" tvg-name="Eurosport 1 🇬🇧" tvg-id="EUROSPORT.1.RUSSIA.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇷🇺🇬🇧
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
 #EXTINF:-1 cuid="1056" tvg-chno="1056" tvg-name="Eurosport 1 🇵🇱🇬🇧" tvg-id="EUROSPORT.1.POLAND.eurosport" tvg-logo="https://dnl.eurosport.com/sd/img/smart_banner/eurosport_logo_360.png" group-title="Eurosport Channels",Eurosport 1 🇵🇱🇬🇧
 http://109.233.89.166/Eurosport_1_HD/playlist.m3u8
@@ -3411,6 +3363,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3b
 #EXTINF:-1 cuid="1104" tvg-chno="1104" tvg-name="DAZN Womens Football 🇬🇧" tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20240214T034909SQUARE.png_20240214034909.png" group-title="Sports Free Streaming",DAZN Womens Football 🇬🇧
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 
+#EXTINF:-1 cuid="1105" tvg-chno="1105" tvg-name="Women's Sports Network 🇺🇸" tvg-logo="https://womenssports.com/wp-content/uploads/2024/07/smallWSNShortLogoFuego-1.png" group-title="Sports Free Streaming",Women's Sports Network 🇺🇸
+https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8 
 #EXTINF:-1 cuid="1105" tvg-chno="1105" tvg-name="Women's Sports Network 🇺🇸" tvg-logo="https://womenssports.com/wp-content/uploads/2024/07/smallWSNShortLogoFuego-1.png" group-title="Sports Free Streaming",Women's Sports Network 🇺🇸
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
@@ -3730,7 +3684,7 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w2736
 #EXTINF:-1 cuid="1205" tvg-chno="1205" tvg-name="Assim é Portugal 🇵🇹" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Music Channels 🎧",Assim é Portugal 🇵🇹
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bis" tvg-id="Bis.br" group-title="Music 🎧" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BIS.webp",BIS 🇧🇷
+#EXTINF:-1 tvg-name="Bis" tvg-id="Bis.br" group-title="Music Channels 🎧" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BIS.webp",BIS 🇧🇷
 https://abc.embedmax.site/bis/video.m3u8
 
 #EXTINF:-1 cuid="1206" tvg-chno="1206" tvg-name="Hallo! Music" tvg-logo="https://nxplay-images.comets.com.br/resize/67167045cf334_35638a5d8e90284bd5ddd0b644070015.png" group-title="Music Channels 🎧",Hallo! Music
@@ -3744,6 +3698,11 @@ https://livestream.zazerconer.workers.dev/channel/UCvbKGLFg-bgjWvAglehxOFw.m3u8
 
 #EXTINF:-1 cuid="1211" tvg-chno="1209" tvg-name="Concert Channel" tvg-id="The.Concert.Channel.-.DLA.Premium.(CONCR).cl" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music Channels 🎧",Concert Channel
 http://181.78.105.146:8800/play/a06t
+#EXTINF:-1 tvg-name="Concert Channel" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music Channels 🎧",Concert Channel
+https://nxt.plus:8443/live/olmos/1234guz/171136.ts
+
+#EXTINF:-1 tvg-name="Qello Concerts" tvg-id="USBD3500024YB" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/QelloConcerts.webp" group-title="Music Channels 🎧",Qello Concerts
+https://is.gd/vjCO7Z?64240d3d466225000827412.m3u8
 
 #EXTINF:-1 cuid="1212" tvg-chno="1210" tvg-name="Clubbing tv" tvg-id="UK:.CLUBBING.TV.en" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" group-title="Music Channels 🎧",Clubbing tv
 https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
@@ -3969,12 +3928,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 cuid="1286" tvg-chno="1284" tvg-name="Vintage tv 🇧🇷" tvg-logo="https://static.wixstatic.com/media/f98147_744ad37f90864e429604d647d396ef83~mv2.png" group-title="Music Channels 🎧",Vintage tv 🇧🇷
 https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8
-
-#EXTINF:-1 cuid="1209" tvg-chno="1285" tvg-name="Qello Concerts" tvg-id="USBD3500024YB" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/QelloConcerts.webp" group-title="Music 🎧",Qello Concerts
-https://is.gd/vjCO7Z?64240d3d466225000827412.m3u8
-
-#EXTINF:-1 cuid="1210" tvg-chno="1286" tvg-name="Concert Channel" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CONCERTTV.webp" group-title="Music 🎧",Concert Channel
-https://nxt.plus:8443/live/olmos/1234guz/171136.ts
 
 --- 📻 𝙍𝙖𝙙𝙞𝙤 𝙎𝙩𝙖𝙩𝙞𝙤𝙣 
 
