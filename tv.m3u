@@ -182,7 +182,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 cuid="19" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxOjU6NDggUE0maGFzaF92YWx1ZT11S1ZHZ2JwNkh6Q29RcnRHS2Y5MXpBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjZiMjI1MmItMmRjNS00ZDFmLWFjZjctMmE3NzZlM2NjN2Mz/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSA0OjQ1OjIwIFBNJmhhc2hfdmFsdWU9Ti9ZYXN2QXdSRmRTaU04YmtjUktvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4NTA0YWUzLWRiYTgtNGJmNC1hMjAwLTIwYjFmYmJlZjAzMA==/
 
 =========================================================== 
 🌈 𝙏𝙑𝙡 
@@ -191,7 +191,7 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #EXTINF:-1 cuid="21" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxOjU6NDYgUE0maGFzaF92YWx1ZT1qdjNORjhSMnY5SC9ISnRydlBiK2dBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDFjNTZhNTYtYmI2Mi00YjA5LTg0NjAtMzUwYWVlNDc0ZGE2/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSA0OjQ1OjE5IFBNJmhhc2hfdmFsdWU9UHNHVHp1aGNMZm50eFFmMHBBZ3NNZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRmY2Y3NWU2LWQ5MjgtNGY0Yy1hZmYzLTY1ODQ3M2U5M2YxOA==/
 
 =========================================================== 
 🌈 CNN 𝙏𝙑𝙡 
@@ -200,7 +200,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 cuid="23" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNportugal.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNportugal.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSAxOjU6NDcgUE0maGFzaF92YWx1ZT04WExBN3FjQ2UxT0Z0MmpBVjYxVzl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODNhOTI2N2UtMTNhZS00MDllLTkxZDMtOTEyZTFlNzEyM2Y5/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSA0OjQ1OjE5IFBNJmhhc2hfdmFsdWU9TTB0aGc3dlRpREp2MWs1Z2RHa2w4Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU2ZWJhNjIzLTliMDktNDAwYy04NGQ5LWI4NDkzZWM1NWY0MA==/
 
 =========================================================== 
 🌈
